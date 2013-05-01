@@ -1,0 +1,29 @@
+//=================================================================================================================================================================================
+// Made by Dubb @ d2etal.com
+
+
+// ### WHITE POLEARMS ###
+// NORMAL
+[name] == scythe && [Quality] == Normal && [Flag] == Ethereal # [Sockets] == 0 && [level] >= 26 && [level] <= 40
+[name] == scythe && [Quality] == Normal # [Sockets] == 4
+[name] == scythe && [Quality] == Normal && [Flag] != Ethereal # [Sockets] == 4
+[name] == scythe && [Quality] == Normal && [Flag] == Ethereal # [Sockets] == 4
+[name] == scythe && [Quality] == Superior # [EnhancedDamage] == 15 && [Sockets] == 0 && [level] >= 26 && [level] <= 40
+[name] == scythe && [Quality] == Superior # [EnhancedDamage] == 15 && [Sockets] == 4
+[name] == voulge && [Quality] == Superior # [EnhancedDamage] == 15 && ([Sockets] == 0 || [Sockets] == 4)
+
+
+// ### WHITE SWORDS ###
+// NORMAL
+[Name] == CrystalSword && [Quality] == Normal && [Flag] == Ethereal # [Sockets] == 4
+[Name] == BroadSword && [Quality] == Normal && [Flag] == Ethereal # [Sockets] == 4
+[Name] == LongSword && [Quality] == Normal && [Flag] == Ethereal # [Sockets] == 4
+[Name] == BroadSword && [Quality] == Superior # [EnhancedDamage] == 15 && [Sockets] == 4
+[Name] == CrystalSword && [Quality] == Superior # [EnhancedDamage] == 15 && ([Sockets] == 0 || [Sockets] >= 3)
+//[Name] == CrystalSword && [Quality] <= Superior # [Sockets] == 5 || [Sockets] == 4 // CTA/Spirit
+[Name] == LongSword && [Quality] == Superior # [EnhancedDamage] == 15 && ([Sockets] == 4 || [Sockets] == 0)
+[Name] == ShortSword && [Quality] == Superior # [EnhancedDamage] == 15 && [Sockets] == 2
+[Name] == Flamberge && [Quality] == Superior # [EnhancedDamage] == 15 && ([Sockets] == 0 || [Sockets] == 5)
+[Name] == GiantSword && [Quality] == Superior && [Flag] == Ethereal # [EnhancedDamage] == 15 && ([Sockets] == 0 || [Sockets] >= 2)
+//[Name] == GiantSword && [Quality] == Normal && [Flag] == Ethereal # ([Sockets] == 0 || [Sockets] >= 4)
+[Name] == GiantSword && [Quality] == Normal && [Flag] == Ethereal # [EnhancedDamage] == 15 && ([Sockets] == 0 || [Sockets] >= 4)

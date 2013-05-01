@@ -1,0 +1,11 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudsale2 / GG-Scs$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudsale2 / GG-Scs$;0;-1
+Stout Small Charm of Good Luck$\xffc3Stout Small Charm of Good Luck (66)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 33\n\xffc3+4 Defense\n\xffc37% Better Chance of Getting Magic Items$cm13$cloudsale2 / GG-Scs$;0;-1
+Small Charm of Good Luck$\xffc3 Small Charm of Good Luck (87)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 33\n\xffc37% Better Chance of Getting Magic Items$cm11$cloudsale2 / GG-Scs$;0;-1
+Crimson Small Charm of Good Luck$\xffc3Crimson Small Charm of Good Luck (75)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 33\n\xffc3Fire Resist +3%\n\xffc37% Better Chance of Getting Magic Items$cm13$cloudsale2 / GG-Scs$;0;-1
+Small Charm of Good Luck$\xffc3 Small Charm of Good Luck (61)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 33\n\xffc37% Better Chance of Getting Magic Items$cm11$cloudsale2 / GG-Scs$;0;-1
+Crimson Small Charm of Vita$\xffc3Crimson Small Charm of Vita (65)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 39\n\xffc3+20 to Life\n\xffc3Fire Resist +4%$cm11$cloudsale2 / GG-Scs$;0;-1
+Sapphire Small Charm $\xffc3Sapphire Small Charm  (83)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 32\n\xffc3Cold Resist +11%$cm12$cloudsale2 / GG-Scs$;0;-1
+Serpent's Small Charm of Strength$\xffc3Serpent's Small Charm of Strength (82)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 40\n\xffc3+1 to Strength\n\xffc3+14 to Mana$cm12$cloudsale2 / GG-Scs$;0;-1
+Smoking Small Charm of Sustenance$\xffc3Smoking Small Charm of Sustenance (81)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 56\n\xffc3Adds 5-19 fire damage\n\xffc3+14 to Life$cm12$cloudsale2 / GG-Scs$;0;-1
+Iron Small Charm of Vita$\xffc3Iron Small Charm of Vita (81)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 39\n\xffc3+22 to Attack Rating\n\xffc3+19 to Life$cm11$cloudsale2 / GG-Scs$;0;-1

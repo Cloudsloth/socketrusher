@@ -1,0 +1,4 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudsale / I-RW$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudsale / I-RW$;0;-1
+Crystal Sword$\xffc5Crystal Sword (85)\n\xffc0One-Hand Damage: 7 to 22\n\xffc0Durability: 11 of 11\n\xffc1Required Strength: 33\n\xffc0Sword Class - Fast Attack Speed\n\xffc3Ethereal (Cannot be Repaired)$crs$cloudsale / I-RW$;0;-1
+Flawless Diamond$\xffc0Flawless Diamond (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: +54% Damage to Undead\n\xffc0Armor: +80 to Attack Rating\n\xffc0Helms: +80 to Attack Rating\n\xffc0Shields: All Resistances +14\n\xffc0\n\xffc1Required Level: 15$glw$cloudsale / I-RW$1202499809;0;-1

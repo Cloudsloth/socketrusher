@@ -1,0 +1,1 @@
+Perfect Emerald$\xffc0Perfect Emerald (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: +100 poison damage over 7 seconds\n\xffc0Armor: +10 to Dexterity\n\xffc0Helms: +10 to Dexterity\n\xffc0Shields: Poison Resist +40%\n\xffc0\n\xffc1Required Level: 18$gpg$cloudcraft2 / Gemg-B$916591030;0;-1

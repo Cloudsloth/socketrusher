@@ -1,0 +1,4 @@
+Mephisto's Soulstone$\xffc4\xffc0\xffc4Mephisto's Soulstone (1)$mss$cloudimb3 / DebsA$;0;-1
+Ornate Plate$\xffc5Ornate Plate (85)\n\xffc0Defense: 660\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb3 / DebsA$;0;-1
+Ornate Plate$\xffc5Ornate Plate (78)\n\xffc0Defense: 643\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb3 / DebsA$;0;-1
+Ornate Plate$\xffc5Ornate Plate (85)\n\xffc0Defense: 666\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb3 / DebsA$;0;-1

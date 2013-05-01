@@ -1,0 +1,12 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudchar2 / Lvl-Zero$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (27)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew5$cloudchar2 / Lvl-Zero$;0;-1
+Large Charm of Strength$\xffc3 Large Charm of Strength (22)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 2\n\xffc3+3 to Strength$cm23$cloudchar2 / Lvl-Zero$;0;-1
+Lapis Lazuli Jewel of Envy$\xffc3Lapis Lazuli Jewel of Envy (18)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds\n\xffc3Cold Resist +13%$jew4$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (24)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew5$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (31)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew3$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (82)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew6$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (5)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew3$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (33)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew6$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew6$cloudchar2 / Lvl-Zero$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (25)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew2$cloudchar2 / Lvl-Zero$;0;-1

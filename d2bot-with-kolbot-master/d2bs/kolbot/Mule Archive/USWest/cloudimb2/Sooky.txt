@@ -1,0 +1,9 @@
+Tome of Town Portal$Tome of Town Portal (12)\nInsert Scrolls\nRight Click to Use\nQuantity: 20$tbk$cloudimb2 / Sooky$;0;-1
+Vicious Blade Talons of Readiness$\xffc3Vicious Blade Talons of Readiness (22)\n\xffc0One-Hand Damage: \xffc314 to 19\n\xffc0Durability: 69 of 69\n\xffc1(Assassin Only)\n\xffc0Required Dexterity: 50\n\xffc0Required Strength: 50\n\xffc0Required Level: 6\n\xffc0Claw Class - \xffc3Very Slow Attack Speed\n\xffc3+10% Increased Attack Speed\n\xffc3+40% Enhanced Damage$btl$cloudimb2 / Sooky$;0;-1
+Superior Knout$\xffc5Superior Knout (85)\n\xffc0One-Hand Damage: 13 to 35\n\xffc0Durability: 20 of 30\n\xffc1Required Dexterity: 73\n\xffc1Required Strength: 82\n\xffc0Required Level: 25\n\xffc0Mace Class - Fast Attack Speed\n\xffc3+1 to Attack Rating\n\xffc3+50% Damage to Undead\n\xffc3Socketed (5)$fla$cloudimb2 / Sooky$;0;-1
+Key$\xffc0Key (46)\n\xffc0Quantity: 12$key$cloudimb2 / Sooky$;0;-1
+Greater Healing Potion$\xffc0Greater Healing Potion (1)\n\xffc0Points: 360$hp4$cloudimb2 / Sooky$;0;-1
+Super Healing Potion$\xffc0Super Healing Potion (1)\n\xffc0Points: 640$hp5$cloudimb2 / Sooky$;0;-1
+Greater Mana Potion$\xffc0Greater Mana Potion (1)\n\xffc0Points: 150$mp4$cloudimb2 / Sooky$;0;-1
+Bramble Shell Ancient Armor$\xffc9Bramble Shell (45)\n\xffc9Ancient Armor\n\xffc0Defense: \xffc3522\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 60\n\xffc0Required Level: 18\n\xffc3+49% Enhanced Defense\n\xffc3+3 to Dexterity\n\xffc3+30 to Life\n\xffc3+5 to Mana\n\xffc3Fire Resist +26%\n\xffc3Requirements -30%\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb2 / Sooky$;0;-1
+Perfect Amethyst$\xffc0Perfect Amethyst (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: +150 to Attack Rating\n\xffc0Armor: +10 to Strength\n\xffc0Helms: +10 to Strength\n\xffc0Shields: +30 Defense\n\xffc0\n\xffc0Required Level: 18$gpv$cloudimb2 / Sooky$69512371;0;-1

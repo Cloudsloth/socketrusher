@@ -1,0 +1,6 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudimb2 / Naga-Plz$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudimb2 / Naga-Plz$;0;-1
+Naga$\xffc5Naga (85)\n\xffc0One-Hand Damage: 24 to 67\n\xffc0Durability: 14 of 14\n\xffc1Required Strength: 111\n\xffc1Required Level: 25\n\xffc0Axe Class - Fast Attack Speed\n\xffc3Ethereal (Cannot be Repaired)$wax$cloudimb2 / Naga-Plz$;0;-1
+Superior Naga$\xffc5Superior Naga (88)\n\xffc0One-Hand Damage: \xffc326 to 73\n\xffc0Durability: 15 of 15\n\xffc1Required Strength: 111\n\xffc1Required Level: 25\n\xffc0Axe Class - Fast Attack Speed\n\xffc3+9% Enhanced Damage\n\xffc3Increase Maximum Durability 14%\n\xffc3Ethereal (Cannot be Repaired)$wax$cloudimb2 / Naga-Plz$;0;-1
+Naga$\xffc5Naga (76)\n\xffc0One-Hand Damage: 24 to 67\n\xffc0Durability: 14 of 14\n\xffc1Required Strength: 111\n\xffc1Required Level: 25\n\xffc0Axe Class - Fast Attack Speed\n\xffc3Ethereal (Cannot be Repaired)$wax$cloudimb2 / Naga-Plz$;0;-1
+Naga$\xffc5Naga (85)\n\xffc0One-Hand Damage: 24 to 67\n\xffc0Durability: 14 of 14\n\xffc1Required Strength: 111\n\xffc1Required Level: 25\n\xffc0Axe Class - Fast Attack Speed\n\xffc3Ethereal (Cannot be Repaired)$wax$cloudimb2 / Naga-Plz$;0;-1

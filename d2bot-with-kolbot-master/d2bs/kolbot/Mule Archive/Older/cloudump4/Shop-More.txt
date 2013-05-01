@@ -1,0 +1,8 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudump4 / Shop-More$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudump4 / Shop-More$;0;-1
+Jeweler's Hellforge Plate of the Whale$\xffc3Jeweler's Hellforge Plate of the Whale (90)\n\xffc0Defense: 514\n\xffc0Durability: 60 of 60\n\xffc1Required Strength: 196\n\xffc1Required Level: 59\n\xffc3+100 to Life\n\xffc3Socketed (4)$plt$cloudump4 / Shop-More$;0;9
+Artisan's Gothic Plate of the Squid$\xffc3Artisan's Gothic Plate of the Squid (90)\n\xffc0Defense: 129\n\xffc0Durability: 55 of 55\n\xffc1Required Strength: 70\n\xffc1Required Level: 30\n\xffc3+79 to Life\n\xffc3Socketed (3)$gth$cloudump4 / Shop-More$;0;9
+Artisan's Full Plate Mail of the Squid$\xffc3Artisan's Full Plate Mail of the Squid (90)\n\xffc0Defense: 152\n\xffc0Durability: 70 of 70\n\xffc1Required Strength: 80\n\xffc1Required Level: 30\n\xffc3+80 to Life\n\xffc3Socketed (3)$ful$cloudump4 / Shop-More$;0;9
+Artisan's Gothic Plate of the Squid$\xffc3Artisan's Gothic Plate of the Squid (90)\n\xffc0Defense: 135\n\xffc0Durability: 55 of 55\n\xffc1Required Strength: 70\n\xffc1Required Level: 30\n\xffc3+79 to Life\n\xffc3Socketed (3)$gth$cloudump4 / Shop-More$;0;9
+Artisan's Ornate Plate of the Squid$\xffc3Artisan's Ornate Plate of the Squid (90)\n\xffc0Defense: 444\n\xffc0Durability: 60 of 60\n\xffc1Required Strength: 170\n\xffc1Required Level: 30\n\xffc3+79 to Life\n\xffc3Socketed (3)$aar$cloudump4 / Shop-More$;0;9
+Artisan's Ancient Armor of the Squid$\xffc3Artisan's Ancient Armor of the Squid (90)\n\xffc0Defense: 223\n\xffc0Durability: 60 of 60\n\xffc1Required Strength: 100\n\xffc1Required Level: 30\n\xffc3+79 to Life\n\xffc3Socketed (3)$aar$cloudump4 / Shop-More$;0;9

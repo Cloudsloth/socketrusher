@@ -1,0 +1,4 @@
+Tome of Town Portal$Tome of Town Portal (12)\nInsert Scrolls\nRight Click to Use\nQuantity: 20$tbk$cloudimb2 / Limewire$;0;-1
+Ornate Plate$\xffc5Ornate Plate (88)\n\xffc0Defense: 658\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc0Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb2 / Limewire$;0;-1
+Ornate Plate$\xffc5Ornate Plate (81)\n\xffc0Defense: 645\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc0Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb2 / Limewire$;0;-1
+Ornate Plate$\xffc5Ornate Plate (85)\n\xffc0Defense: 658\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc0Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb2 / Limewire$;0;-1

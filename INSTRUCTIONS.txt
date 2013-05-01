@@ -1,0 +1,65 @@
+This system rushes 7 characters with no player involvement in game. Upon completing a set of 8 rushes you have 7x socket accounts.
+
+Before each run you will need to change the kolbot profile to select the correct characters.
+
+
+
+Set up:
+
+1. Edit Rusher Config
+
+	Change name and inventory settings.
+
+2. Edit Rushee
+
+	Change Leader Name
+
+3. Edit Rushtread
+
+	Find and replace 'charaa' with acc name. This makes the rusher say the character name of the character on the first account, making it the leader.
+
+4. Edit Barbarian.Rushee
+
+	Change Leader Name
+
+5. Config Making:
+
+	Open config maker folder.
+	Edit copy.bat to reflect your char names
+	This is complex or nitpicky, but you can work mostly with quick find and replaces
+	Run copy.bat, cut and paste these configs into config folder
+
+6. Edit profile.ini
+
+	Insert your first seven account names and the first chars on these accounts
+	Between each rush you will edit this file and increment to the next char with find and replace
+	
+7. Run Kolbot
+
+	Set correct d2 path for all profiles.
+
+
+Once set up, how to use:
+
+
+1. Open Kolbot
+
+2. Edit First Profile, click on the char name, close profile. There is a bug where if you don't do this it uses the char and acc name from the last time kolbot was run.
+
+3. Launch all rushee's, then rusher.
+
+4. When complete stop all profiles, close kolbot
+
+5. Increment chars or accounts in profile.ini
+
+6. If incremented account in profile.ini you must change rushtread so leader will be chosen
+
+
+Issues:
+
+Some times when a char is moving to act 3 from act 2 he is out of sync and his shown locations and his game server location are different. To resync he must move back to his game server location and he will suddenly do a tele thing. This requires manual fixing, happens like 1/5 games. While this char is still in act 2 the whole rush is held up.
+
+Some times rusher fails to kill grand vizier, rare
+
+Some times rushee fails to take diablo portal, rare
+

@@ -1,0 +1,12 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudump4 / My-Undies$;0;-1
+Um Rune$\xffc8Um Rune (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: 25% Chance of Open Wounds\n\xffc0Armor: All Resistances +15\n\xffc0Helms: All Resistances +15\n\xffc0Shields: All Resistances +22\n\xffc0\n\xffc1Required Level: 47$r22$cloudump4 / My-Undies$1462108490;0;-1
+Dread Grasp Ring$\xffc9Dread Grasp (93)\n\xffc9Ring\n\xffc1Required Level: 66\n\xffc3+10% Faster Cast Rate\n\xffc3+17 to Strength\n\xffc3+7 to Mana\n\xffc3Damage Reduced by 1$rin4$cloudump4 / My-Undies$;0;-1
+Pul Rune$\xffc8Pul Rune (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: +75% Damage to Demons,\n\xffc0+100 to Attack Rating against Demons\n\xffc0Armor: +30% Enhanced Defense\n\xffc0Helms: +30% Enhanced Defense\n\xffc0Shields: +30% Enhanced Defense\n\xffc0\n\xffc1Required Level: 45$r21$cloudump4 / My-Undies$2244575314;0;-1
+Ghoul Touch Ring$\xffc9Ghoul Touch (94)\n\xffc9Ring\n\xffc1Required Level: 60\n\xffc3+10% Faster Cast Rate\n\xffc3+34 to Life\n\xffc3Fire Resist +7%\n\xffc3Level 5 Charged Bolt (9/32 Charges)$rin2$cloudump4 / My-Undies$;0;-1
+Blazing Circlet of Revivification$\xffc3Blazing Circlet of Revivification (95)\n\xffc0Defense: 25\n\xffc0Durability: 35 of 35\n\xffc1Required Level: 30\n\xffc3+2 to Fire Skills (Sorceress Only)\n\xffc3Replenish Life +12$ci0$cloudump4 / My-Undies$;0;-1
+Leather Gloves$\xffc2Leather Gloves (75)\n\xffc0Defense: 2\n\xffc0Durability: 11 of 12\n\xffc1Unidentified$lgl$cloudump4 / My-Undies$1488525322;0;-1
+Shadow Touch Ring$\xffc9Shadow Touch (88)\n\xffc9Ring\n\xffc1Required Level: 22\n\xffc3+2 to Minimum Damage\n\xffc3+5 to Dexterity\n\xffc3+60 to Mana\n\xffc3+1 to Mana after each Kill$rin5$cloudump4 / My-Undies$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (24)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew2$cloudump4 / My-Undies$;0;-1
+Iron Small Charm of Sustenance$\xffc3Iron Small Charm of Sustenance (61)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 31\n\xffc3+24 to Attack Rating\n\xffc3+15 to Life$cm12$cloudump4 / My-Undies$;0;-1
+Lizard's Small Charm of Good Luck$\xffc3Lizard's Small Charm of Good Luck (61)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 33\n\xffc3+2 to Mana\n\xffc37% Better Chance of Getting Magic Items$cm11$cloudump4 / My-Undies$;0;-1
+Leather Gloves$\xffc2Leather Gloves (60)\n\xffc0Defense: 2\n\xffc0Durability: 8 of 12\n\xffc1Unidentified$lgl$cloudump4 / My-Undies$1489347776;0;-1

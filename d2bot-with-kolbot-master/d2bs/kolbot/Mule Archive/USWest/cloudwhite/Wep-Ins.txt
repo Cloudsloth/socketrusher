@@ -1,0 +1,12 @@
+Superior Crystal Sword$$crs$cloudwhite / Wep-Ins$;0;-1
+Superior Great Bow$$cbw$cloudwhite / Wep-Ins$;0;-1
+Superior Matriarchal Bow$$am1$cloudwhite / Wep-Ins$;0;-1
+Hand Scythe$$ces$cloudwhite / Wep-Ins$;0;-1
+Suwayyah$$ktr$cloudwhite / Wep-Ins$;0;-1
+Naga$$wax$cloudwhite / Wep-Ins$;0;-1
+Superior Stag Bow$$am1$cloudwhite / Wep-Ins$;0;-1
+Superior Flail$$fla$cloudwhite / Wep-Ins$;0;-1
+Superior Phase Blade$$crs$cloudwhite / Wep-Ins$;0;-1
+Superior Grim Scythe$$wsc$cloudwhite / Wep-Ins$;0;-1
+Superior Phase Blade$$crs$cloudwhite / Wep-Ins$;0;-1
+Superior War Axe$$wax$cloudwhite / Wep-Ins$;0;-1

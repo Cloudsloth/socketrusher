@@ -1,0 +1,4 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudimb2 / Mornates$;0;-1
+Superior Blade Talons$\xffc5Superior Blade Talons (85)\n\xffc0One-Hand Damage: 15 to 21\n\xffc0Durability: 39 of 39\n\xffc0(Assassin Only)\n\xffc1Required Dexterity: 40\n\xffc1Required Strength: 40\n\xffc0Claw Class - Very Fast Attack Speed\n\xffc3Increase Maximum Durability 12%\n\xffc3Ethereal (Cannot be Repaired)$btl$cloudimb2 / Mornates$;0;-1
+Throwing Spear$\xffc5Throwing Spear (88)\n\xffc0Throw Damage: \xffc018 to \xffc045\n\xffc0One-Hand Damage: 7 to 22\n\xffc0Quantity: 77\n\xffc1Required Dexterity: 55\n\xffc0Javelin Class - Very Fast Attack Speed\n\xffc3Ethereal (Cannot be Repaired)$tsp$cloudimb2 / Mornates$;0;-1
+Ancient Armor$\xffc5Ancient Armor (46)\n\xffc0Defense: 345\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 90\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimb2 / Mornates$;0;-1

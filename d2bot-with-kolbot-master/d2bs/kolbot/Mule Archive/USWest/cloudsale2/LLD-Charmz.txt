@@ -1,0 +1,6 @@
+Garnet Small Charm of Inertia$\xffc3Garnet Small Charm of Inertia (65)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 27\n\xffc3+3% Faster Run/Walk\n\xffc3Fire Resist +9%$cm11$cloudsale2 / LLD-Charmz$;0;-1
+Ocher Large Charm of Dexterity$\xffc3Ocher Large Charm of Dexterity (26)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 13\n\xffc3+5 to Dexterity\n\xffc3Lightning Resist +10%$cm23$cloudsale2 / LLD-Charmz$;0;-1
+Snake's Grand Charm $\xffc3Snake's Grand Charm  (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 18\n\xffc3+30 to Mana$cm33$cloudsale2 / LLD-Charmz$;0;-1
+Lizard's Large Charm of Dexterity$\xffc3Lizard's Large Charm of Dexterity (32)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 13\n\xffc3+5 to Dexterity\n\xffc3+8 to Mana$cm23$cloudsale2 / LLD-Charmz$;0;-1
+Snake's Small Charm of Fire$\xffc3Snake's Small Charm of Fire (75)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 24\n\xffc3Adds 2-4 fire damage\n\xffc3+12 to Mana$cm13$cloudsale2 / LLD-Charmz$;0;-1
+Lizard's Grand Charm of Balance$\xffc3Lizard's Grand Charm of Balance (26)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 9\n\xffc3+12% Faster Hit Recovery\n\xffc3+15 to Mana$cm31$cloudsale2 / LLD-Charmz$;0;-1

@@ -1,0 +1,87 @@
+Chestnut Jewel $\xffc3Chestnut Jewel  (69)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+14 Maximum Stamina$jew5$cloudjunk / MuJu$;0;-1
+Cinnabar Jewel $\xffc3Cinnabar Jewel  (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+9% Enhanced Damage$jew3$cloudjunk / MuJu$;0;-1
+Plague Eye Jewel$\xffc9Plague Eye (82)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3+2 to Minimum Damage\n\xffc3Adds 2-7 cold damage\n\xffc3Cold Resist +16%\n\xffc3+3 to Mana after each Kill$jew2$cloudjunk / MuJu$;0;-1
+Bone Scarab Jewel$\xffc9Bone Scarab (57)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3Adds 2-7 fire damage\n\xffc3+4 to Dexterity\n\xffc3+4 to Energy\n\xffc3Poison Resist +19%$jew4$cloudjunk / MuJu$;0;-1
+Argent Jewel of Daring$\xffc3Argent Jewel of Daring (73)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+90 to Attack Rating\n\xffc3+2 to Dexterity$jew3$cloudjunk / MuJu$;0;-1
+Jewel of Avarice$\xffc3 Jewel of Avarice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc325% Extra Gold from Monsters$jew3$cloudjunk / MuJu$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (52)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Maximum Damage$jew6$cloudjunk / MuJu$;0;-1
+Scarlet Jewel of Virility$\xffc3Scarlet Jewel of Virility (73)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+4 to Minimum Damage\n\xffc3+8 to Strength$jew4$cloudjunk / MuJu$;0;-1
+Emerald Jewel of Spirit$\xffc3Emerald Jewel of Spirit (37)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+8 to Life\n\xffc35% Better Chance of Getting Magic Items$jew5$cloudjunk / MuJu$;0;-1
+Crimson Jewel $\xffc3Crimson Jewel  (76)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+6 to Minimum Damage$jew6$cloudjunk / MuJu$;0;-1
+Jewel of Bliss$\xffc3 Jewel of Bliss (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+5 to Minimum Damage$jew1$cloudjunk / MuJu$;0;-1
+Eburine Jewel of Knowledge$\xffc3Eburine Jewel of Knowledge (64)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+18 Defense\n\xffc3+5 to Energy$jew1$cloudjunk / MuJu$;0;-1
+Tin Jewel $\xffc3Tin Jewel  (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+34 to Attack Rating$jew2$cloudjunk / MuJu$;0;-1
+Beryl Jewel of Virility$\xffc3Beryl Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+6 to Strength\n\xffc3Poison Resist +14%$jew3$cloudjunk / MuJu$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (5)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+1 to Minimum Damage$jew4$cloudjunk / MuJu$;0;-1
+Jewel of Burning$\xffc3 Jewel of Burning (71)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 14-47 fire damage$jew4$cloudjunk / MuJu$;0;-1
+Beast Talisman Jewel$\xffc9Beast Talisman (78)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 16\n\xffc3Lightning Resist +18%\n\xffc3+3 to Mana after each Kill\n\xffc321% Extra Gold from Monsters$jew1$cloudjunk / MuJu$;0;-1
+Ambergris Jewel $\xffc3Ambergris Jewel  (37)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3Lightning Resist +16%$jew3$cloudjunk / MuJu$;0;-1
+Bright Jewel of Virility$\xffc3Bright Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+10 to Attack Rating\n\xffc3+4 to Strength\n\xffc3+1 to Light Radius$jew1$cloudjunk / MuJu$;0;-1
+Cinnabar Jewel $\xffc3Cinnabar Jewel  (39)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+6% Enhanced Damage$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (55)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 5\n\xffc3+3 to Dexterity$jew5$cloudjunk / MuJu$;0;-1
+Nickel Jewel $\xffc3Nickel Jewel  (23)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+17 to Attack Rating$jew6$cloudjunk / MuJu$;0;-1
+Zircon Jewel $\xffc3Zircon Jewel  (73)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 2\n\xffc3+8 to Mana$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+2 to Maximum Damage$jew3$cloudjunk / MuJu$;0;-1
+Vermilion Jewel of Freedom$\xffc3Vermilion Jewel of Freedom (80)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 50\n\xffc3+12 to Maximum Damage\n\xffc3Requirements -15%$jew3$cloudjunk / MuJu$;0;-1
+Aureolic Jewel $\xffc3Aureolic Jewel  (59)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 16\n\xffc3+2 to Mana after each Kill$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Fire$\xffc3 Jewel of Fire (69)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 5-28 fire damage$jew3$cloudjunk / MuJu$;0;-1
+Bone Jewel of Knowledge$\xffc3Bone Jewel of Knowledge (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 24\n\xffc3+24 Defense\n\xffc3+6 to Energy$jew2$cloudjunk / MuJu$;0;-1
+Havoc Heart Jewel$\xffc9Havoc Heart (86)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+20 poison damage over 2 seconds\n\xffc3+9 to Energy\n\xffc39% Damage Taken Goes To Mana$jew1$cloudjunk / MuJu$;0;-1
+Ruby Jewel of the Glacier$\xffc3Ruby Jewel of the Glacier (80)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 58\n\xffc3+31% Enhanced Damage\n\xffc3Adds 5-11 cold damage$jew6$cloudjunk / MuJu$;0;-1
+Jewel of Carnage$\xffc3 Jewel of Carnage (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+13 to Maximum Damage$jew6$cloudjunk / MuJu$;0;-1
+Jade Jewel of Envy$\xffc3Jade Jewel of Envy (84)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+20 poison damage over 2 seconds\n\xffc3Poison Resist +18%$jew6$cloudjunk / MuJu$;0;-1
+Ruby Jewel of Ire$\xffc3Ruby Jewel of Ire (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+5 to Maximum Damage\n\xffc3Fire Resist +21%$jew2$cloudjunk / MuJu$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+7 to Life$jew4$cloudjunk / MuJu$;0;-1
+Jewel of Wrath$\xffc3 Jewel of Wrath (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 8\n\xffc3+6 to Maximum Damage$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (77)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Minimum Damage$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (68)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 5\n\xffc3+2 to Dexterity$jew1$cloudjunk / MuJu$;0;-1
+Stone Heart Jewel$\xffc9Stone Heart (84)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+1 to Strength\n\xffc3+9 to Energy\n\xffc3Cold Resist +30%\n\xffc38% Better Chance of Getting Magic Items$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Avarice$\xffc3 Jewel of Avarice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc310% Extra Gold from Monsters$jew3$cloudjunk / MuJu$;0;-1
+Havoc Heart Jewel$\xffc9Havoc Heart (99)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3Adds 1-39 lightning damage\n\xffc3Adds 2-9 cold damage\n\xffc3+20 Maximum Stamina$jew6$cloudjunk / MuJu$;0;-1
+Blanched Jewel of Burning$\xffc3Blanched Jewel of Burning (61)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 12-34 fire damage\n\xffc3+8 Defense$jew6$cloudjunk / MuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew5$cloudjunk / MuJu$;0;-1
+Emerald Jewel $\xffc3Emerald Jewel  (84)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc37% Better Chance of Getting Magic Items$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (70)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew3$cloudjunk / MuJu$;0;-1
+Scarlet Jewel $\xffc3Scarlet Jewel  (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+4 to Minimum Damage$jew4$cloudjunk / MuJu$;0;-1
+Sapphire Jewel of Truth$\xffc3Sapphire Jewel of Truth (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery\n\xffc3Cold Resist +30%$jew6$cloudjunk / MuJu$;0;-1
+Emerald Jewel of Truth$\xffc3Emerald Jewel of Truth (58)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery\n\xffc33% Better Chance of Getting Magic Items$jew1$cloudjunk / MuJu$;0;-1
+Ruby Jewel of Fire$\xffc3Ruby Jewel of Fire (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 58\n\xffc3+37% Enhanced Damage\n\xffc3Adds 5-18 fire damage$jew4$cloudjunk / MuJu$;0;-1
+Crimson Jewel of Frigidity$\xffc3Crimson Jewel of Frigidity (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+7 to Minimum Damage\n\xffc3Adds 1-3 cold damage$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Freedom$\xffc3 Jewel of Freedom (13)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Requirements -15%$jew4$cloudjunk / MuJu$;0;-1
+Beast Gyre Jewel$\xffc9Beast Gyre (99)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 24\n\xffc3+36 Defense\n\xffc3+4 to Life\n\xffc3Fire Resist +26%$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+6 to Life$jew4$cloudjunk / MuJu$;0;-1
+Skull Gyre Jewel$\xffc9Skull Gyre (87)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3+47 to Attack Rating\n\xffc3Adds 1-24 lightning damage\n\xffc3+2 to Dexterity\n\xffc314% Extra Gold from Monsters$jew2$cloudjunk / MuJu$;0;-1
+Blanched Jewel $\xffc3Blanched Jewel  (13)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+5 Defense$jew2$cloudjunk / MuJu$;0;-1
+Cinnabar Jewel of Knowledge$\xffc3Cinnabar Jewel of Knowledge (18)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+7% Enhanced Damage\n\xffc3+2 to Energy$jew4$cloudjunk / MuJu$;0;-1
+Jewel of Wrath$\xffc3 Jewel of Wrath (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 8\n\xffc3+6 to Maximum Damage$jew2$cloudjunk / MuJu$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (13)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+5 to Life$jew1$cloudjunk / MuJu$;0;-1
+Eburine Jewel $\xffc3Eburine Jewel  (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+11 Defense$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+6 to Strength$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Maximum Damage$jew4$cloudjunk / MuJu$;0;-1
+Jewel of Honor$\xffc3 Jewel of Honor (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 35\n\xffc3Replenish Life +2$jew3$cloudjunk / MuJu$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Frigidity$\xffc3 Jewel of Frigidity (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3Adds 1-3 cold damage$jew1$cloudjunk / MuJu$;0;-1
+Carmine Jewel $\xffc3Carmine Jewel  (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 27\n\xffc3+9 to Maximum Damage$jew2$cloudjunk / MuJu$;0;-1
+Ambergris Jewel $\xffc3Ambergris Jewel  (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3Lightning Resist +26%$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Fervor$\xffc3 Jewel of Fervor (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 31\n\xffc3+15% Increased Attack Speed$jew3$cloudjunk / MuJu$;0;-1
+Jewel of the Glacier$\xffc3 Jewel of the Glacier (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 50\n\xffc3Adds 5-11 cold damage$jew6$cloudjunk / MuJu$;0;-1
+Shadow Eye Jewel$\xffc9Shadow Eye (84)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 1-60 lightning damage\n\xffc3+10 Defense\n\xffc3+5 to Strength\n\xffc3+4 to Life$jew2$cloudjunk / MuJu$;0;-1
+Crimson Jewel of Virility$\xffc3Crimson Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+7 to Minimum Damage\n\xffc3+1 to Strength$jew2$cloudjunk / MuJu$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+9 to Energy$jew3$cloudjunk / MuJu$;0;-1
+Carmine Jewel $\xffc3Carmine Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 27\n\xffc3+8 to Maximum Damage$jew1$cloudjunk / MuJu$;0;-1
+Aureolic Jewel of Daring$\xffc3Aureolic Jewel of Daring (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 16\n\xffc3+3 to Dexterity\n\xffc3+2 to Mana after each Kill$jew2$cloudjunk / MuJu$;0;-1
+Beryl Jewel of Passion$\xffc3Beryl Jewel of Passion (87)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 11\n\xffc3Adds 1-6 fire damage\n\xffc3Poison Resist +7%$jew2$cloudjunk / MuJu$;0;-1
+Ruby Jewel $\xffc3Ruby Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 58\n\xffc3+33% Enhanced Damage$jew4$cloudjunk / MuJu$;0;-1
+Tin Jewel of Avarice$\xffc3Tin Jewel of Avarice (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+29 to Attack Rating\n\xffc317% Extra Gold from Monsters$jew3$cloudjunk / MuJu$;0;-1
+Ruby Jewel of Ire$\xffc3Ruby Jewel of Ire (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+4 to Maximum Damage\n\xffc3Fire Resist +16%$jew6$cloudjunk / MuJu$;0;-1
+Silver Jewel of Frigidity$\xffc3Silver Jewel of Frigidity (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+42 to Attack Rating\n\xffc3Adds 1-3 cold damage$jew1$cloudjunk / MuJu$;0;-1
+Jewel of Avarice$\xffc3 Jewel of Avarice (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc310% Extra Gold from Monsters$jew5$cloudjunk / MuJu$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+2 to Strength$jew3$cloudjunk / MuJu$;0;-1
+Emerald Jewel of Virility$\xffc3Emerald Jewel of Virility (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+9 to Strength\n\xffc35% Better Chance of Getting Magic Items$jew2$cloudjunk / MuJu$;0;-1
+Ruby Jewel $\xffc3Ruby Jewel  (80)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 58\n\xffc3+34% Enhanced Damage$jew4$cloudjunk / MuJu$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (80)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Minimum Damage$jew4$cloudjunk / MuJu$;0;-1
+Carbuncle Jewel of Wrath$\xffc3Carbuncle Jewel of Wrath (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 9\n\xffc3+10 to Maximum Damage$jew3$cloudjunk / MuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew2$cloudjunk / MuJu$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+1 to Minimum Damage$jew2$cloudjunk / MuJu$;0;-1
+Raven Heart Jewel$\xffc9Raven Heart (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3Adds 7-9 damage\n\xffc3+5 to Energy\n\xffc311% Damage Taken Goes To Mana$jew2$cloudjunk / MuJu$;0;-1
+Bone Gyre Jewel$\xffc9Bone Gyre (80)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+18% Enhanced Damage\n\xffc3+5 to Strength\n\xffc3+3 to Dexterity\n\xffc3Lightning Resist +7%$jew2$cloudjunk / MuJu$;0;-1

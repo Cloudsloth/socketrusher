@@ -1,0 +1,17 @@
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Terror$\xffc8Key of Terror (82)$pk1$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Terror$\xffc8Key of Terror (82)$pk1$cloudm2 / Get-Sorted$;0;-1
+Greaves$\xffc2Greaves (58)\n\xffc0Defense: 15\n\xffc0Durability: 16 of 24\n\xffc1Required Strength: 70\n\xffc1Unidentified$hbt$cloudm2 / Get-Sorted$1421982084;0;-1
+Grand Charm of Strength$\xffc3 Grand Charm of Strength (20)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc3+4 to Strength$cm32$cloudm2 / Get-Sorted$;0;-1
+Forked Large Charm of Dexterity$\xffc3Forked Large Charm of Dexterity (61)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 44\n\xffc3+2 to Maximum Damage\n\xffc3+5 to Dexterity$cm23$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Key of Terror$\xffc8Key of Terror (82)$pk1$cloudm2 / Get-Sorted$;0;-1
+Steel Large Charm of Inertia$\xffc3Steel Large Charm of Inertia (58)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 36\n\xffc3+5% Faster Run/Walk\n\xffc3+61 to Attack Rating$cm23$cloudm2 / Get-Sorted$;0;-1
+Key of Hate$\xffc8Key of Hate (80)$pk2$cloudm2 / Get-Sorted$;0;-1
+Topaz$\xffc0Topaz (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: Adds 1-22 lightning damage\n\xffc0Armor: 16% Better Chance of Getting Magic Items\n\xffc0Helms: 16% Better Chance of Getting Magic Items\n\xffc0Shields: Lightning Resist +22%\n\xffc0\n\xffc1Required Level: 12$gsy$cloudm2 / Get-Sorted$3664392316;0;-1
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudm2 / Get-Sorted$;0;-1

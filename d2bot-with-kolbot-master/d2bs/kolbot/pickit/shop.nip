@@ -1,0 +1,357 @@
+//=================================================================================================================================================================================
+// Rand Magics
+
+//[Name] == BerserkerAxe && [Quality] == Magic # 
+
+// LLD Claws
+
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # [ShadowDisciplinesSkillTab] >= 2 && ([SkillMindBlast] >= 2 || [SkillVenom] >= 2 || [SkillFade] >= 2) && [ItemLevelReq] <= 30
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # ([AssassinSkills] == 1 || [ShadowDisciplinesSkillTab] >= 1) && ([SkillMindBlast] >= 3 || [SkillVenom] >= 3 || [SkillFade] >= 3) && [ItemLevelReq] <= 30
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # [TrapsSkillTab] >= 2 && ([SkillLightningSentry] >= 2 || [SkillWakeOfFire] >= 2) && [ItemlevelReq] <= 30
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # [TrapsSkillTab] >= 1 && ([SkillLightningSentry] >= 3 || [SkillWakeOfFire] >= 3) && [ItemlevelReq] <= 30
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # ([AssassinSkills] == 1 || [TrapsSkillTab] >= 1) && ([SkillLightningSentry] >= 3 || [SkillWakeOfFire] >= 3) && [ItemlevelReq] <= 30
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # ([AssassinSkills] == 1 || [TrapsSkillTab] >= 1) && ([SkillLightningSentry] >= 2 || [SkillWakeOfFire] >= 2) && [IAS] >= 20 && [ItemlevelReq] <= 30
+
+[Name] == HandScythe && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && ([SkillLightningSentry] >= 3 || [SkillWakeOfFire] >= 3) && ([SkillMindBlast] >= 1 || [SkillFade] >= 1 || [SkillVenom] >= 1) && [ItemlevelReq] <= 30
+
+// ### MAGIC ASSASSIN KATARS ###
+// EXCEPTIONAL
+//[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPerLevel] >= 15 && [SkillLightningSentry] == 3
+//[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPerLevel] >= 15 && [SkillVenom] == 3
+[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [AssassinSkills] == 2 && [SkillLightningSentry] == 3
+[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [AssassinSkills] == 2 && [SkillWakeOfFire] == 3
+[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [ShadowDisciplinesSkillTab] == 3 && [SkillFade] == 3 && [SkillVenom] == 3
+[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [TrapsSkillTab] >= 2 && [SkillLightningSentry] == 3
+//[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 30 && [SkillLightningSentry] == 3
+[Name] == GreaterTalons && [Quality] == Magic && [Flag] != Ethereal # [TrapsSkillTab] == 3 && [SkillWakeOfFire] == 3
+// ELITE
+[Name] == FeralClaws && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPerLevel] >= 15 && [SkillLightningSentry] == 3 && [IAS] >= 30
+[Name] == FeralClaws && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPerLevel] >= 15 && [SkillVenom] == 3 && [IAS] >= 30
+[Name] == FeralClaws && [Quality] == Magic && [Flag] != Ethereal # [AssassinSkills] == 2 && [SkillLightningSentry] == 3 && [IAS] >= 30
+[Name] == RunicTalons && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPerLevel] >= 15 && [SkillLightningSentry] == 3 && [IAS] >= 30
+[Name] == RunicTalons && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPerLevel] >= 15 && [SkillVenom] == 3 && [IAS] >= 30
+[Name] == RunicTalons && [Quality] == Magic && [Flag] != Ethereal # [AssassinSkills] == 2 && [SkillLightningSentry] == 3 && [IAS] >= 30
+
+[name] == greatertalons && [quality] == magic # [assassinskills]+[skilllightningsentry] == 5 || [trapsskilltab]+[skilllightningsentry] >= 5
+[name] == greatertalons && [quality] == magic # [assassinskills]+[skillwakeoffire] == 5 || [trapsskilltab]+[skillwakeoffire] >= 5
+[name] == greatertalons && [quality] == magic # [itemtohitperlevel] >= 15 && [ias] >= 30 && ([SkillLightningSentry] == 3 || [skillwakeoffire] >= 3 || [SkillVenom] == 3 || [SkillMindBlast] >= 2)
+[name] == greatertalons && [quality] == magic # [sockets] == 3 && [ias] >= 40
+[name] == greatertalons && [quality] == magic # [assassinskills]+[skilllightningsentry] >= 4 && [ias] >= 30
+[name] == greatertalons && [quality] == magic # [assassinskills]+[skillwakeoffire] >= 4 && [ias] >= 30
+[name] == greatertalons && [quality] == magic # [trapsskilltab]+[skilllightningsentry] >= 5 && [ias] >= 30
+[name] == greatertalons && [quality] == magic # [trapsskilltab]+[skillwakeoffire] >= 5 && [ias] >= 30
+
+[name] == greaterclaws && [quality] == magic # [assassinskills]+[skilllightningsentry] == 5 || [trapsskilltab]+[skilllightningsentry] >= 5 && [ias] >= 10
+[name] == greaterclaws && [quality] == magic # [assassinskills]+[skillwakeoffire] == 5 || [trapsskilltab]+[skillwakeoffire] >= 5 && [ias] >= 10
+[name] == greaterclaws && [quality] == magic # [itemtohitperlevel] >= 15 && [ias] >= 40 && ([SkillLightningSentry] == 3 || [skillwakeoffire] >= 3 || [SkillVenom] == 3 || [SkillMindBlast] >= 2)
+//[name] == greaterclaws && [quality] == magic # [sockets] == 3 && [ias] >= 40
+[name] == greaterclaws && [quality] == magic # [assassinskills]+[skilllightningsentry] >= 4 && [ias] >= 40
+[name] == greaterclaws && [quality] == magic # [assassinskills]+[skillwakeoffire] >= 4 && [ias] >= 40
+[name] == greaterclaws && [quality] == magic # [trapsskilltab]+[skilllightningsentry] >= 5 && [ias] >= 40
+[name] == greaterclaws && [quality] == magic # [trapsskilltab]+[skillwakeoffire] >= 5 && [ias] >= 40
+
+//Elite
+[Name] == ThunderMaul && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] == 40
+[Name] == BerserkerAxe && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 30
+[Name] == PhaseBlade && [Quality] == Magic # ([EnhancedDamage] >= 280 || [Sockets] == 4 || [ItemMaxDamagePerLevel] >= 4 && [ItemToHitPerLevel] >= 33) && [IAS] >= 30
+[Name] == FangedKnife && [Quality] == Magic # ([EnhancedDamage] >= 250 || [Sockets] == 3) && [IAS] >= 30
+[Name] == MythicalSword && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == ColossusBlade && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == ColossusSword && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == ChampionSword && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == GiantThresher && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == WarPike && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == GreatPoleaxe && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == HydraBow && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+[Name] == WardBow && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] >= 40
+// EXCEPTIONAL
+
+[Name] == Ataghan && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] == 40
+[Name] == Cutlass && [Quality] == Magic # [EnhancedDamage] >= 95 && ([IAS] == 30 || [Description] == "amplify damage") && [ItemLevelReq] <= 30
+[Name] == Zweihander && [Quality] == Magic # [EnhancedDamage] >= 95 && ([IAS] == 30 || [MaxDamage] >= 110 || [Description] == "amplify damage") && [ItemLevelReq] <= 30
+[Name] == GrimScythe && [Quality] == Magic # [EnhancedDamage] == 100 && ([IAS] == 30 || [Description] == "amplify damage") && [ItemLevelReq] <= 30
+[Name] == Naga && [Quality] == Magic # [EnhancedDamage] >= 95 && ([IAS] == 30 || [MaxDamage] >= 130 || [Description] == "amplify damage") && [ItemLevelReq] <= 30
+[Name] == Knout && [Quality] == Magic # [EnhancedDamage] >= 95 && ([IAS] == 30 || [MaxDamage] >= 130 || [Description] == "amplify damage") && [ItemLevelReq] <= 30
+
+// ### MAGIC MACES ###
+// NORMAL
+[Name] == Flail && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 3 && [IAS] == 40
+[Name] == Flail && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 2 && [IAS] == 30 // 
+[Name] == Knout && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 3 && [IAS] == 40
+[Name] == Knout && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 2 && [IAS] == 30 // ([PaladinSkills] == 1 || 
+[Name] == Flail && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Mace && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == MorningStar && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+
+// EXCEPTIONAL
+[Name] == Knout && [Quality] == Magic && [Flag] != Ethereal # ([PaladinSkills] == 2 || [PaliCombatSkillTab] == 3) && [IAS] == 40
+
+
+
+[Name] == Claws && [Quality] == Magic && [Flag] != Ethereal # ([ShadowDisciplinesSkillTab] == 1 || [TrapsSkillTab] == 1) && ([ItemReqPercent] == -20 || [ItemReqPercent] == -30 || [IAS] == 20 || [IAS] == 10)
+[Name] == Cestus && [Quality] == Magic && [Flag] != Ethereal # ([ShadowDisciplinesSkillTab] == 1 || [TrapsSkillTab] == 1) && ([ItemReqPercent] == -20 || [ItemReqPercent] == -30 || [IAS] == 20)
+[Name] == ScissorsKatar && [Quality] == Magic && [Flag] != Ethereal # ([ShadowDisciplinesSkillTab] == 1 || [TrapsSkillTab] == 1) && ([ItemReqPercent] == -20 || [ItemReqPercent] == -30 || [IAS] == 20)
+
+// Cutlass's are the best
+[Name] == Cutlass && [Quality] == Magic # [EnhancedDamage] >= 280 && [IAS] == 40
+
+// Booties
+
+[Type] == boots && [Quality] == Magic # ([LightResist] == 40 || [FireResist] == 40 || [ColdResist] == 40 || [PoisonResist] == 40 || [MaxMana] == 40) && ([FRW] == 40 || [Dexterity] == 15 || [ItemMagicBonus] == 35)
+[Type] == boots && [Quality] == Magic # ([LightResist] == 40 || [FireResist] == 40 || [ColdResist] == 40 || [PoisonResist] == 40) && [FRW] == 30 && [ItemLevelReq] <= 30
+[Name] == WarBoots && [Quality] == Magic # [EnhancedDefense] == 100 && ([FRW] == 30 || [FHR] == 10)
+[Name] == BattleBoots && [Quality] == Magic # [EnhancedDefense] == 100 && ([FRW] == 30 || [FHR] == 10)
+[Name] == WyrmhideBoots && [Quality] == Magic # [EnhancedDefense] >= 195 && ([FRW] >= 30 || [FHR] == 10 || [Dexterity] == 15)
+[Name] == ScarabshellBoots && [Quality] == Magic # [EnhancedDefense] >= 195 && ([FRW] >= 30 || [FHR] == 10 || [Dexterity] == 15)
+[Name] == MyrmidonGreaves && [Quality] == Magic # [EnhancedDefense] >= 195 && ([FRW] >= 30 || [ItemGoldBonus] == 80 || [Dexterity] == 15 || [ItemMagicBonus] == 35)
+[Name] == MirroredBoots && [Quality] == Magic # [EnhancedDefense] >= 195 && ([FRW] >= 30 || [ItemGoldBonus] == 80 || [Dexterity] == 15 || [ItemMagicBonus] == 35)
+
+// Belts
+
+[type] == Belt && [Quality] == Magic && [Class] == Elite # [EnhancedDefense] == 200 && ([MaxHp] == 60 || [Strength] == 30 || [ColdMinDam] >= 1 || [HpRegen] == 10 || [ItemGoldBonus] == 80 || [FHR] == 24)
+[Name] == OgreGauntlets && [Quality] == Magic # [EnhancedDefense] == 200 && [IAS] == 20
+[Name] == WarBelt && [Quality] == Magic # [EnhancedDefense] == 100 && ([Strength] == 9 || [MaxHp] == 80 || [FHR] == 24)
+[Type] == Belt && [Quality] == Magic # ([LightResist] == 40 || [FireResist] == 40 || [ColdResist] == 40 || [PoisonResist] == 40) && [MaxHp] == 80 && [ItemLevelReq] <= 30
+
+// Lifer Armor
+[Type] == Belt && [Quality] == Magic # ([LightResist] == 40 || [FireResist] == 40 || [ColdResist] == 40 || [PoisonResist] == 40) && [MaxHp] == 80 && [ItemLevelReq] <= 30
+[Type] == Armor && [Quality] == Magic && [Flag] != Ethereal # [MaxHp] == 80 && [Sockets] == 3 && [ItemLevelReq] <= 30
+[Type] == Armor && [Quality] == Magic && [Flag] != Ethereal # ([itempoisonlengthresist] == 75 || [Description] == "Level 3 Frost Nova" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [Description] == "Level 5 Nova" || [NormalDamageReduction] == 15) && [Sockets] == 4 && ([Defense] == 135 || [Defense] == 161 || [Defense] == 233 || [Defense] == 274 || [Defense] == 342 || [Defense] >= 450)
+[Type] == Armor && [Quality] == Magic && [Flag] != Ethereal # [MaxHp] >= 100 && [Sockets] == 4
+[Name] == MagePlate && [Quality] == Magic && [Flag] != Ethereal # [MaxHp] >= 79 && [Sockets] == 3 && [ItemLevelReq] <= 30
+[Name] == ArchonPlate && [Quality] == Magic && [Flag] != Ethereal # ([itempoisonlengthresist] == 75 || [MaxHp] >= 90 || [NormalDamageReduction] >= 15 || [MagicDamageReduction] == 6 || [Strength] == 20 || [Dexterity] == 15 || [FHR] == 24 || [HPRegen] == 5) && [Sockets] == 4
+[Name] == OrnatePlate && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && ([MaxHP] == 80 || [ItemReqPercent] == -30 || [Description] == "Level 3 Frost Nova" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [Description] == "Level 5 Nova") && [ItemLevelReq] <= 30 // [FHR] == 24 || 
+[Name] == AncientArmor && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] >= 65 && [MaxHP] == 40 && [ItemLevelReq] <= 18
+[Name] == AncientArmor && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] >= 65 && [MaxHP] == 40 && [ItemLevelReq] <= 18
+[Name] == AncientArmor && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 40 && [MaxHP] == 20
+//[Name] == AncientArmor && [Quality] == Magic && [Flag] != Ethereal # [itempoisonlengthresist] == 75 && [Sockets] == 4
+//[Name] == GothicPlate && [Quality] == Magic && [Flag] != Ethereal # [itempoisonlengthresist] == 75 && [Sockets] == 4
+[Name] == Boneweave && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && [MaxHP] == 100
+[Name] == SacredArmor && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([MaxHP] >= 90 || [NormalDamageReduction] >= 15 || [ItemReqPercent] == -30)
+[Name] == ArchonPlate && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([MaxHP] >= 90 || [NormalDamageReduction] >= 15 || [ItemReqPercent] == -30)
+[Name] == ShadowPlate && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([MaxHP] >= 90 || [NormalDamageReduction] >= 15 || [ItemReqPercent] == -30)
+[Name] == OrnatePlate && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && [MaxHP] == 80
+[Name] == MagePlate && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && [MaxHP] == 80
+
+// Hat's
+
+[Name] == BoneHelm && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 65 && [MaxHP] == 10
+[Name] == BoneHelm && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 10 && [Defense] == 36
+[Name] == Helm && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 10
+[Name] == Casque && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 20
+[Name] == FullHelm && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 10 && [Defense] == 26
+[Name] == Basinet && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 20
+[Name] == WarHat && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 20
+[Name] == Sallet && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 20
+[Name] == GrimHelm && [Quality] == Magic && [Flag] != Ethereal # ([ItemToHitPercentPerLevel] >= 1 || [Sockets] == 3) && [MaxHP] == 40
+[Name] == GrimHelm && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && ([FHR] == 10 || [MaxHp] == 20 || [Energy] == 15 || [ItemLightRadius] == 5)
+[Type] == Helm && [Quality] == Magic && [Class] >= Exceptional && [Flag] != Ethereal # [Sockets] == 3 && [MaxHP] == 40
+[Type] == GreatHelm && [Quality] == Magic && [Class] >= Exceptional && [Flag] != Ethereal # [Sockets] == 3 && [MaxHP] == 40
+[Type] == WingedHelm && [Quality] == Magic && [Class] >= Exceptional && [Flag] != Ethereal # [Sockets] == 3 && [MaxHP] == 40
+[Name] == GrimHelm && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && [MaxHP] == 20 && [Defense] >= 100
+[Name] == GrandCrown && [Quality] == Magic && [Flag] != Ethereal # ([ItemToHitPercentPerLevel] >= 1 || [Sockets] == 3) && [MaxHP] == 40
+[Name] == GrandCrown && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && ([FHR] == 10 || [MaxHp] == 40)
+[Name] == Crown && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [MaxHP] == 40 && [Defense] == 45
+//[Name] == Crown && [Quality] == Magic && [Flag] != Ethereal # ([ItemToHitPercentPerLevel] >= 1 || [EnhancedDefense] == 65) && [MaxHP] == 10
+[Name] == Crown && [Quality] == Magic && [Flag] != Ethereal # [ItemToHitPercentPerLevel] >= 1 && ([FHR] == 10 || [MaxHp] == 10) && [Defense] == 45
+//[Name] == Crown && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 65 && [FHR] == 10
+
+[Name] == GrandCrown && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && [MaxHP] == 20
+[Name] == GrimHelm && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && [MaxHP] == 20
+
+[Name] == Armet && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && [MaxHP] == 40
+[Name] == SpiredHelm && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && [MaxHP] == 40
+[Name] == DemonHead && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && [MaxHP] == 40
+[Name] == Corona && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && [MaxHP] == 40
+[Name] == BoneVisage && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && [MaxHP] == 40
+
+
+// Scepters
+
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] >= 2 && [SkillHolyShield] >= 2
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # ([PaliCombatSkillTab] == 3 || [PaladinSkills] == 2) && [SkillBlessedHammer]+[SkillConcentration] >= 5
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # ([PaliCombatSkillTab] == 3 || [PaladinSkills] == 2) && [SkillFistOfTheHeavens]+[SkillConviction] >= 5
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # ([PaliCombatSkillTab] == 3 || [PaladinSkills] == 2) && ([FCR] == 20 || [SkillConviction] >= 2) && ([SkillBlessedHammer] == 3 || [SkillFistOfTheHeavens] == 3)
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # ([PaliCombatSkillTab] == 2 || [PaladinSkills] == 1) && ([FCR] >= 10 || [SkillConviction] >= 2) && ([SkillBlessedHammer] == 3 || [SkillFistOfTheHeavens] == 3) && [ItemLevelReq] <= 30
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # [HpRegen] >= 10 && [Sockets] == 4 && [SkillHolyShield] >= 1
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # [HpRegen] >= 10 && [Sockets] == 3 && ([SkillHolyShield] >= 1 || [SkillPrayer] == 3 || [SkillMeditation]+[SkillCharge] >= 4) && [ItemLevelReq] <= 30
+[Name] == DivineScepter && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDamage] >= 95 && [IAS] == 30 && [ItemLevelReq] <= 30 && ([SkillHolyShield] >= 1 || [SkillZeal]+[SkillHolyFreeze]+[SkillMeditation]+[SkillCharge] >= 4)
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [HpRegen] >= 15
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [HpRegen] >= 15 && [ItemLevelReq] <= 30
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # [MaxMana] == 20 && [HpRegen] == 10 && [ItemLevelReq] <= 18
+[Type] == Scepter && [Quality] == Magic && [Flag] != Ethereal # ([MaxMana] == 90 || [FireResist] == 40 || [LightResist] == 40 || [ColdResist] == 40 ) && [HpRegen] == 15 && [ItemLevelReq] <= 30
+
+// Flail's Pwn
+
+[Name] == Flail && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 3 && [IAS] == 40
+[Name] == Flail && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 2 && [IAS] == 30
+[Name] == SpikedClub && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Strength] >= 20 || [MaxHp] >= 30)
+[Name] == BarbedClub && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Strength] >= 20 || [MaxHp] >= 30)
+[Name] == Flail && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Mace && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == MorningStar && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Axe && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == DoubleAxe && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Scimitar && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Falchion && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Claymore && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+//[Name] == Flamberge && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [Strength] >= 15 || [ColdMinDam] >= 2)
+[Name] == GreatSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [Strength] >= 15 || [ColdMinDam] >= 2)
+[Name] == GiantSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [Strength] >= 15 || [ColdMinDam] >= 2)
+
+[Name] == Sabre && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == BroadSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Strength] >= 15 || [ColdMinDam] >= 2)
+[Name] == LongSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Strength] >= 15 || [ColdMinDam] >= 2)
+[Name] == Kris && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Blade && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+
+// Warcy Weaps
+
+//[Name] == CrystalSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Strength] >= 15 || [PoisonMinDam] >= 100 || [LifeLeech] >= 9 || [ManaLeech] >= 9) // [IAS] == 40 || 
+//[Name] == GreatSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [IAS] == 40 || [MaxDamage] >= 31 || [ColdMinDam] >= 2 || [PoisonMinDam] >= 100 || [Strength] >= 15) // [ItemSkillOnHit] >= 1 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+//[Name] == Flamberge && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([IAS] == 40 || [Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [MaxDamage] >= 26 || [ColdMinDam] >= 2 || [PoisonMinDam] >= 100 || [Strength] >= 15) // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+//[Name] == BalancedKnife && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([MaxDamage] >= 22 || [ColdMinDam] >= 2 || [PoisonMinDam] >= 100 || [Strength] >= 15) // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+//[Name] == ThrowingSpear && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([MaxDamage] >= 41 || [ColdMinDam] >= 2 || [Strength] >= 15 || [PoisonMinDam] >= 100)
+//[Name] == Glaive && [Quality] == Magic # [WarcriesSkillTab] == 3 && ([MaxDamage] >= 33 || [ColdMinDam] >= 2 || [Strength] >= 15 || [PoisonMinDam] >= 100) // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+
+//[Name] == CrystalSword && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([MaxDamage] >= 26 || [Strength] >= 5 || [PoisonMinDam] >= 100) && [ItemLevelReq] <= 30
+//[Name] == GreatSword && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([MaxDamage] >= 31 || [ColdMinDam] >= 2 || [PoisonMinDam] >= 100 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+//[Name] == Flamberge && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([MaxDamage] >= 26 || [ColdMinDam] >= 2 || [PoisonMinDam] >= 100 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+//[Name] == BalancedKnife && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([MaxDamage] >= 22 || [ColdMinDam] >= 2 || [PoisonMinDam] >= 100 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [Strength] >= 15) && [ItemLevelReq] <= 30 // 
+//[Name] == ThrowingSpear && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30
+
+//[Name] == Mace && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([MaxDamage] >= 21 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || [ColdMinDam] >= 2 || [Strength] >= 15) // 
+[Name] == MorningStar && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([MaxDamage] >= 27 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || [ColdMinDam] >= 2 || [Strength] >= 15) // 
+//[Name] == Flail && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([MaxDamage] >= 35 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || [ColdMinDam] >= 2 || [Strength] >= 15) // 
+//[Name] == Sabre && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([MaxDamage] >= 19 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || [ColdMinDam] >= 2 || [Strength] >= 15) // 
+//[Name] == Falchion && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([ColdMinDam] >= 2 || [Strength] >= 15) // [MaxDamage] >= 28 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+[Name] == BroadSword && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [IAS] == 40 || [ColdMinDam] >= 2 || [Strength] >= 15) // [MaxDamage] >= 25 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+[Name] == LongSword && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [IAS] == 40 || [ColdMinDam] >= 2 || [Strength] >= 15) // [MaxDamage] >= 30 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+//[Name] == Kris && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [IAS] == 40 || [ColdMinDam] >= 2 || [Strength] >= 15) // [MaxDamage] >= 22 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+//[Name] == Blade && [Quality] == Magic # [WarcriesSkilltab] == 3 && ([Description] == "Level 3 Ice Bolt" || [Description] == "Level 3 Lightning" || [Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [IAS] == 40 || [ColdMinDam] >= 2 || [Strength] >= 15) // [MaxDamage] >= 26 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+
+
+//[Name] == Mace && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([MaxDamage] >= 21 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || [ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // 
+[Name] == MorningStar && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [MaxDamage] >= 27 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || [ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // 
+//[Name] == Flail && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [MaxDamage] >= 35 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+//[Name] == Sabre && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [MaxDamage] >= 19 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+//[Name] == Falchion && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [MaxDamage] >= 28 || [LifeLeech] >= 6 || [ManaLeech] >= 6 || [PoisonMinDam] >= 100 || 
+[Name] == BroadSword && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [PoisonMinDam] >= 100 || [MaxDamage] >= 25 || [ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+[Name] == LongSword && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [PoisonMinDam] >= 100 || [MaxDamage] >= 30 || [ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+//[Name] == Kris && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [PoisonMinDam] >= 100 || [MaxDamage] >= 22 || [ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [LifeLeech] >= 6 || [ManaLeech] >= 6 ||
+//[Name] == Blade && [Quality] == Magic # [WarcriesSkillTab] == 2 && ([Description] == "Level 3 Nova" || [Description] == "Level 4 Nova" || [PoisonMinDam] >= 100 || [MaxDamage] >= 26 || [ColdMinDam] >= 2 || [Strength] >= 15) && [ItemLevelReq] <= 30 // [LifeLeech] >= 6 || [ManaLeech] >= 6 || 
+
+
+
+[Name] == MilitaryPick && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == WarAxe && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Sabre && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Falchion && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == BroadSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == LongSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == WarSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == GiantSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == BastardSword && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Kris && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+
+[Name] == Mace && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == MorningStar && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Flail && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == FlangedMace && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == JaggedStar && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+[Name] == Knout && [Quality] == Magic # [WarcriesSkillTab] == 3 && [Strength] >= 15
+
+
+[Name] == LargeShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([FBR] == 30 || [HpRegen] == 5) && [Defense] == 14 && [ItemLevelReq] <= 30
+//[Name] == GothicShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([FBR] == 30 || [HpRegen] == 5) && [Defense] == 35 && [ItemLevelReq] <= 30
+[Name] == TowerShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([FBR] == 30 || [HpRegen] == 5) && [Defense] == 25 && [ItemLevelReq] <= 30
+//[Name] == KiteShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([FHR] == 17 || [FBR] == 30) && [Defense] == 18 && [ItemLevelReq] <= 30
+[Name] == KiteShield && [Quality] == Magic && [Flag] != Ethereal # [ItemDamageToMana] == 12 && [FBR] == 30
+[Name] == KiteShield && [Quality] == Magic && [Flag] != Ethereal # [HpRegen] == 5 && [Sockets] == 3 && [ItemLevelReq] <= 30
+[Name] == DragonShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([HpRegen] == 5 || [FBR] == 30) && [ItemLevelReq] <= 30
+[Name] == BarbedShield && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 2 && [FBR] == 30
+[Name] == GrimShield && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && ([FBR] == 30 || [HpRegen] == 5)
+
+[Name] == HeavyBracers && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && [IAS] == 10
+[Name] == BattleGauntlets && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && ([IAS] == 10 || [Dexterity] == 9 || [HpRegen] == 5 || [ItemLightRadius] == 5)
+[Name] == WarGauntlets && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 100 && [IAS] == 10
+[Name] == BrambleMitts && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([IAS] == 20 || [Strength] == 15 || [Dexterity] == 20 || [HpRegen] == 5)
+[Name] == VampireboneGloves && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([IAS] == 20 || [Strength] == 15 || [Dexterity] == 20 || [HpRegen] == 5)
+[Name] == Vambraces && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([IAS] == 20 || [Strength] == 15 || [Dexterity] == 20 || [HpRegen] == 5)
+[Name] == CrusaderGauntlets && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([IAS] == 20 || [Strength] == 15 || [Dexterity] == 20 || [HpRegen] == 5)
+[Name] == OgreGauntlets && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([IAS] == 20 || [Strength] == 15 || [Dexterity] == 20 || [HpRegen] == 5)
+//[Name] == HeavyGloves && [Quality] == Magic && [Flag] != Ethereal # [JavelinAndSpearSkillTab] == 3 && [IAS] == 20
+//[Name] == ChainGloves && [Quality] == Magic && [Flag] != Ethereal # [JavelinAndSpearSkillTab] == 3 && [IAS] == 20
+//[Name] == LightGauntlets && [Quality] == Magic && [Flag] != Ethereal # [JavelinAndSpearSkillTab] == 3 && [IAS] == 20 && [Defense] == 11
+
+
+//[Name] == RingMail && [Quality] == Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 15 || [ItemMaxDurabilityPercent] == 0) && [Sockets] == 3
+//[Name] == LargeShield && [Quality] == Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 15 || [ItemMaxDurabilityPercent] == 0) && [Sockets] == 3
+//[Name] == KiteShield && [Quality] == Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 15 || [ItemMaxDurabilityPercent] == 0) && [Sockets] == 3
+[Name] == TowerShield && [Quality] == Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 15 || [ItemMaxDurabilityPercent] == 0) && [Sockets] == 3
+
+// ### MAGIC SHIELDS ###
+// NORMAL
+
+// EXCEPTIONAL
+[Name] == DragonShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([HpRegen] == 5 || [FBR] == 30) && [ItemLevelReq] <= 30
+[Name] == Scutum && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([HpRegen] == 5 || [FBR] == 30) && [ItemLevelReq] <= 30
+//[Name] == Pavise && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([HpRegen] == 5 || [FBR] == 30) && [ItemLevelReq] <= 30
+[Name] == BarbedShield && [Quality] == Magic && [Flag] != Ethereal # [PaliCombatSkillTab] == 2 && [FBR] == 30
+[Name] == RoundShield && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([HpRegen] == 5 || [FBR] == 30) && [ItemLevelReq] <= 30
+[Name] == Defender && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && ([HpRegen] == 5 || [FBR] == 30) && [ItemLevelReq] <= 30
+// ELITE
+[Name] == Hyperion && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [FBR] == 30
+[Name] == Monarch && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && ([MaxHp] >= 20 || [HpRegen] >= 3 || [FBR] >= 15 || [NormalDamageReduction] >= 10 || [MagicDamageReduction] == 6 || [ItemReqPercent] == -30 || [ItemReqPercent] == -15 || [PoisonLength] == 75 || [PoisonLength] == 50 || [itemskillongethit] >= 3) 
+[Name] == Ward && [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && ([MaxHp] >= 20 || [HpRegen] >= 3 || [FBR] >= 30 || [NormalDamageReduction] >= 10 || [MagicDamageReduction] == 6 || [ItemReqPercent] == -30 || [PoisonLength] == 75 || [PoisonLength] == 50 || [itemskillongethit] >= 3) 
+[Name] == Ward && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([FBR] == 30 || [MaxHp] >= 50 || [MaxDamage] == 12 || [NormalDamageReduction] >= 14)
+[Name] == TrollNest && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([FBR] == 30 || [MaxHp] >= 50 || [MaxDamage] == 12 || [NormalDamageReduction] >= 14)
+[Name] == Aegis && [Quality] == Magic && [Flag] != Ethereal # [EnhancedDefense] == 200 && ([FBR] == 30 || [MaxHp] >= 50 || [MaxDamage] == 12 || [NormalDamageReduction] >= 14)
+
+
+
+// Normal Akara
+
+//[Name] == YewWand && [Quality] <= Magic # [SkillBoneArmor] >= 3 && [SkillClayGolem] >= 3 && [SkillAmplifyDamage] >= 2 && [ItemLevelReq] <= 9
+//[Name] == YewWand && [Quality] <= Magic # [SkillBoneArmor] == 3 && [SkillClayGolem] == 3 && [ItemLevelReq] <= 9
+//[Name] == Wand && [Quality] <= Magic # [SkillBoneArmor] >= 3 && [SkillClayGolem] >= 3 && [SkillAmplifyDamage] >= 2 && [ItemLevelReq] <= 9
+//[Name] == BoneWand && [Quality] <= Magic # [SkillBoneArmor] >= 3 && [SkillClayGolem] >= 3 && [SkillAmplifyDamage] >= 2 && [ItemLevelReq] <= 9
+//[Name] == Wand && [Quality] <= Magic # [SkillBoneArmor] == 3 && [SkillClayGolem] == 3 && [ItemLevelReq] <= 9
+[Name] == ShortStaff && [Quality] <= Superior # [SkillFireBall] == 3 && ([SkillWarmth] >= 3 || [SkillFrozenArmor] >= 3 || [SkillShiverArmor] >= 3) && ([Sockets] == 0 || [Sockets] == 2)
+[Name] == LongStaff && [Quality] <= Superior # [SkillFireBall] == 3 && ([SkillWarmth] >= 3 || [SkillFrozenArmor] >= 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+[Name] == GnarledStaff && [Quality] <= Superior # [SkillFireBall] == 3 && ([SkillWarmth] >= 3 || [SkillFrozenArmor] >= 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+
+
+[Name] == ShortStaff && [Quality] <= Superior # [SkillBlaze] == 3 && ([SkillWarmth] == 3 || [SkillFiremastery] == 3 || [SkillFrozenArmor] == 3 || [SkillShiverArmor] >= 3) && ([Sockets] == 0 || [Sockets] == 2)
+[Name] == LongStaff && [Quality] <= Superior # [SkillBlaze] == 3 && ([SkillWarmth] == 3 || [SkillFiremastery] == 3 || [SkillFrozenArmor] == 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+[Name] == GnarledStaff && [Quality] <= Superior # [SkillBlaze] == 3 && ([SkillWarmth] == 3 || [SkillFiremastery] == 3 || [SkillFrozenArmor] == 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+//[SkillBlaze] == 3 && ([SkillWarmth] == 3 || [SkillFiremastery] == 3 || [SkillFrozenArmor] == 3 || [SkillShiverArmor] >= 3) && ([Sockets] == 0 || [Sockets] == 2)
+
+[Name] == ShortStaff && [Quality] <= Superior # [SkillEnchant] == 3 && ([SkillWarmth] >= 3 || [SkillFrozenArmor] >= 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+[Name] == LongStaff && [Quality] <= Superior # [SkillEnchant] == 3 && ([SkillWarmth] >= 3 || [SkillFrozenArmor] >= 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+[Name] == GnarledStaff && [Quality] <= Superior # [SkillEnchant] == 3 && ([SkillWarmth] >= 3 || [SkillFrozenArmor] >= 3 || [SkillShiverArmor] >= 3) && [Sockets] == 2
+
+[Name] == ShortStaff && [Quality] <= Superior # [SkillEnchant] == 3 && [Sockets] == 2
+[Name] == LongStaff && [Quality] <= Superior # [SkillEnchant] == 3 && [Sockets] == 2
+[Name] == GnarledStaff && [Quality] <= Superior # [SkillEnchant] == 3 && [Sockets] == 2
+
+//[Name] == BoneShield && [Quality] <= Superior # [EnhancedDefense] == 15 && [ItemMaxDurabilityPercent] == 15 && ([Sockets] >= 2 # [MaxQuantity] == 2
+[Name] == BreastPlate && [Quality] <= Superior # [EnhancedDefense] == 15 && [ItemMaxDurabilityPercent] == 15 && ([Sockets] == 3 || [Sockets] == 0)
+//[Name] == BreastPlate && [Quality] <= Superior # [EnhancedDefense] == 15 && [ItemMaxDurabilityPercent] == 0 && [Sockets] == 3 # [MaxQuantity] == 2
+//[Name] == RingMail && [Quality] <= Superior # [EnhancedDefense] == 15 && [ItemMaxDurabilityPercent] == 15 && ([Sockets] == 3 || [Sockets] == 0)
+//[Name] == RingMail && [Quality] <= Superior # [EnhancedDefense] == 15 && [ItemMaxDurabilityPercent] == 15 # [MaxQuantity] == 1
+//[Name] == RingMail && [Quality] <= Superior # [EnhancedDefense] == 15 && [Sockets] == 3 # [MaxQuantity] == 1
+//[Name] == KiteShield && [Quality] <= Superior # [EnhancedDefense] == 15 && [ItemMaxDurabilityPercent] == 15 && [Sockets] >= 2 # [MaxQuantity] == 2
+
+//[Name] == BroadSword && [Quality] <= Superior # [EnhancedDamage] == 15 && [ToHit] == 3 && ([sockets] == 0 || [sockets] == 4) # [MaxQuantity] == 1
+//[Name] == BroadSword && [Quality] <= Superior # [EnhancedDamage] == 15 && [ToHit] == 0 && [ItemMaxDurabilityPercent] == 0 && ([sockets] == 0 || [sockets] == 4) # [MaxQuantity] == 1
+//[Name] == BroadSword && [Quality] <= Superior # [EnhancedDamage] == 15 && [ItemMaxDurabilityPercent] == 15 && ([sockets] == 0 || [sockets] == 4) # [MaxQuantity] == 1
+
+//[Name] == Flail && [Quality] <= Superior # [EnhancedDamage] == 15 && [ToHit] == 3 && ([sockets] == 0 || [sockets] == 4 || [sockets] == 3) # [MaxQuantity] == 1
+//[Name] == Flail && [Quality] <= Superior # [EnhancedDamage] == 15 && [ToHit] == 0 && [ItemMaxDurabilityPercent] == 0 && ([sockets] == 0 || [sockets] == 4 || [sockets] == 3) # [MaxQuantity] == 1
+//[Name] == Flail && [Quality] <= Superior # [EnhancedDamage] == 15 && [ItemMaxDurabilityPercent] == 15 && ([sockets] == 0 || [sockets] == 4 || [sockets] == 3) # [MaxQuantity] == 1
+
+[Name] == BattleStaff && [Quality] <= Superior # [SkillShiverArmor] == 3 && ([SkillFireBall] >= 2 || [SkillTeleport] >= 2) && ([Sockets] == 0 || [Sockets] == 4)
+[Name] == BoneWand && [Quality] <= Superior # [SkillBoneSpear] == 3 && ([SkillBoneArmor] >= 2 || [SkillBloodGolem] == 3 || [SkillClawGolem] == 3 || [SkillSkeletalMage] == 3 || [SkillWeaken] == 3 || [SkillAmplifyDamage] == 3 || [SkillBoneWall] == 3 || [SkillTeeth] == 3) && ([sockets] == 0 || [sockets] == 2)
+
+[name] == bonewand && [quality] == magic # [PoisonAndBoneSkillTab] == 2 && [SkillBoneSpear] == 3 && ([FCR] == 10 || [SkillBoneArmor] == 3) && [ItemLevelReq] <= 18

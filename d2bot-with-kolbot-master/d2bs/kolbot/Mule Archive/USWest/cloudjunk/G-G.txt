@@ -1,0 +1,39 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudjunk / G-G$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudjunk / G-G$;0;-1
+Garnet Jewel of Ire$\xffc3Garnet Jewel of Ire (12)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Maximum Damage\n\xffc3Fire Resist +9%$jew1$cloudjunk / G-G$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 5\n\xffc3+1 to Dexterity$jew3$cloudjunk / G-G$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (20)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Maximum Damage$jew1$cloudjunk / G-G$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (16)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+1 to Minimum Damage$jew1$cloudjunk / G-G$;0;-1
+Nickel Jewel $\xffc3Nickel Jewel  (9)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+14 to Attack Rating$jew1$cloudjunk / G-G$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+5 to Dexterity$jew5$cloudjunk / G-G$;0;-1
+Emerald Jewel $\xffc3Emerald Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc37% Better Chance of Getting Magic Items$jew2$cloudjunk / G-G$;0;-1
+Beryl Jewel of Truth$\xffc3Beryl Jewel of Truth (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery\n\xffc3Poison Resist +7%$jew3$cloudjunk / G-G$;0;-1
+Scarlet Jewel $\xffc3Scarlet Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+4 to Minimum Damage$jew1$cloudjunk / G-G$;0;-1
+Realgar Jewel $\xffc3Realgar Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+28% Enhanced Damage$jew4$cloudjunk / G-G$;0;-1
+Tin Jewel of Passion$\xffc3Tin Jewel of Passion (73)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 11\n\xffc3+21 to Attack Rating\n\xffc3Adds 2-9 fire damage$jew1$cloudjunk / G-G$;0;-1
+Garnet Jewel of Joyfulness$\xffc3Garnet Jewel of Joyfulness (15)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+1 to Minimum Damage\n\xffc3Fire Resist +11%$jew6$cloudjunk / G-G$;0;-1
+Maroon Jewel of Virility$\xffc3Maroon Jewel of Virility (26)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+1 to Strength\n\xffc3+20 Maximum Stamina$jew4$cloudjunk / G-G$;0;-1
+Stone Whorl Jewel$\xffc9Stone Whorl (77)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+2 to Strength\n\xffc3+8 to Dexterity\n\xffc3+8 to Energy\n\xffc3Lightning Resist +22%$jew1$cloudjunk / G-G$;0;-1
+Jewel of Ennui$\xffc3 Jewel of Ennui (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 11\n\xffc3Adds 1-12 lightning damage$jew3$cloudjunk / G-G$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Maximum Damage$jew3$cloudjunk / G-G$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+7 to Energy$jew2$cloudjunk / G-G$;0;-1
+Jewel of Thunder$\xffc3 Jewel of Thunder (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 1-67 lightning damage$jew6$cloudjunk / G-G$;0;-1
+Jewel of Carnage$\xffc3 Jewel of Carnage (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+12 to Maximum Damage$jew3$cloudjunk / G-G$;0;-1
+Tin Jewel $\xffc3Tin Jewel  (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+28 to Attack Rating$jew3$cloudjunk / G-G$;0;-1
+Maroon Jewel of Malice$\xffc3Maroon Jewel of Malice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3+17 Maximum Stamina\n\xffc3Attacker Takes Damage of 1$jew1$cloudjunk / G-G$;0;-1
+Jewel of Malice$\xffc3 Jewel of Malice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3Attacker Takes Damage of 5$jew6$cloudjunk / G-G$;0;-1
+Carbuncle Jewel of Burning$\xffc3Carbuncle Jewel of Burning (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3+1 to Maximum Damage\n\xffc3Adds 14-48 fire damage$jew4$cloudjunk / G-G$;0;-1
+Garnet Jewel $\xffc3Garnet Jewel  (5)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Fire Resist +12%$jew3$cloudjunk / G-G$;0;-1
+Aureolic Jewel of Avarice$\xffc3Aureolic Jewel of Avarice (82)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 16\n\xffc3+2 to Mana after each Kill\n\xffc313% Extra Gold from Monsters$jew3$cloudjunk / G-G$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (41)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+5 to Life$jew1$cloudjunk / G-G$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 5\n\xffc3+2 to Dexterity$jew4$cloudjunk / G-G$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+6 to Strength$jew3$cloudjunk / G-G$;0;-1
+Blanched Jewel $\xffc3Blanched Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+5 Defense$jew3$cloudjunk / G-G$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (82)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Maximum Damage$jew5$cloudjunk / G-G$;0;-1
+Jewel of Malice$\xffc3 Jewel of Malice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3Attacker Takes Damage of 1$jew5$cloudjunk / G-G$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (84)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+9 to Energy$jew6$cloudjunk / G-G$;0;-1
+Chestnut Jewel $\xffc3Chestnut Jewel  (8)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+13 Maximum Stamina$jew3$cloudjunk / G-G$;0;-1
+Maroon Jewel of Knowledge$\xffc3Maroon Jewel of Knowledge (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+6 to Energy\n\xffc3+24 Maximum Stamina$jew4$cloudjunk / G-G$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (22)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Minimum Damage$jew6$cloudjunk / G-G$;0;-1
+Jewel of Bliss$\xffc3 Jewel of Bliss (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+10 to Minimum Damage$jew1$cloudjunk / G-G$;0;-1
+Jewel of Lightning$\xffc3 Jewel of Lightning (57)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 1-23 lightning damage$jew2$cloudjunk / G-G$;0;-1

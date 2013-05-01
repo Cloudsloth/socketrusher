@@ -1,0 +1,14 @@
+Bronze Small Charm of Dexterity$\xffc3Bronze Small Charm of Dexterity (75)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 5\n\xffc3+3 to Attack Rating\n\xffc3+1 to Dexterity$cm12$cloudump2 / Tickle-Me$;0;-1
+Small Charm of Shock$\xffc3 Small Charm of Shock (18)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 9\n\xffc3Adds 1-6 lightning damage$cm11$cloudump2 / Tickle-Me$;0;-1
+Doom Hold Ring$\xffc9Doom Hold (85)\n\xffc9Ring\n\xffc1Required Level: 46\n\xffc3+10% Faster Cast Rate\n\xffc3+71 to Attack Rating\n\xffc34% Mana stolen per hit\n\xffc3+6 to Life\n\xffc3Lightning Resist +13%$rin5$cloudump2 / Tickle-Me$;0;-1
+Sigon's Visor Great Helm$\xffc2Sigon's Visor (85)\n\xffc2Great Helm\n\xffc0Defense: \xffc360\n\xffc0Durability: 36 of 40\n\xffc1Required Strength: 63\n\xffc1Required Level: 6\n\xffc3+25 Defense\n\xffc3+30 to Mana\n\xffc4\n\xffc4Sigon's Complete Steel\n\xffc1Sigon's Guard\n\xffc1Sigon's Wrap\n\xffc1Sigon's Sabot\n\xffc1Sigon's Shelter\n\xffc2Sigon's Visor\n\xffc2\xffc1Sigon's Gage$ghm$cloudump2 / Tickle-Me$979443106;0;0
+Fungal Grand Charm of the Icicle$\xffc3Fungal Grand Charm of the Icicle (84)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 42\n\xffc3+1 to Poison and Bone Skills (Necromancer Only)\n\xffc3Adds 2-3 cold damage$cm31$cloudump2 / Tickle-Me$;0;-1
+Superior Blade Talons$\xffc5Superior Blade Talons (88)\n\xffc0One-Hand Damage: \xffc311 to 16\n\xffc0Durability: 77 of 77\n\xffc1(Assassin Only)\n\xffc1Required Dexterity: 35\n\xffc1Required Strength: 35\n\xffc0Claw Class - Very Slow Attack Speed\n\xffc3+15% Enhanced Damage\n\xffc3+17 to Attack Rating\n\xffc3Increase Maximum Durability 13%\n\xffc3Requirements -30%\n\xffc3Socketed (3)
+
+\xffc3 Jewel of Freedom (31)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Requirements -15%
+
+\xffc3Nickel Jewel of Freedom (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+17 to Attack Rating\n\xffc3Requirements -15%$btl$cloudump2 / Tickle-Me$;0;-1
+Plated Belt$\xffc2Plated Belt (75)\n\xffc0Defense: 11\n\xffc0Durability: 23 of 24\n\xffc1Required Strength: 60\n\xffc1Unidentified$hbl$cloudump2 / Tickle-Me$332596461;0;-1
+Stout Grand Charm of Strength$\xffc3Stout Grand Charm of Strength (14)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc3+4 Defense\n\xffc3+4 to Strength$cm32$cloudump2 / Tickle-Me$;0;-1
+Natural Amulet of the Mammoth$\xffc3Natural Amulet of the Mammoth (36)\n\xffc1Required Level: 18\n\xffc3+1 to Elemental Skills (Druid Only)\n\xffc3+39 to Life$amu3$cloudump2 / Tickle-Me$;0;-1
+Plague Slippers Boneweave Boots$\xffc9Plague Slippers (94)\n\xffc9Boneweave Boots\n\xffc0Defense: \xffc374\n\xffc0Durability: 15 of 16\n\xffc1Required Strength: 118\n\xffc1Required Level: 54\n\xffc3+30% Faster Run/Walk\n\xffc3+10% Faster Hit Recovery\n\xffc3+10% Enhanced Defense\n\xffc3+34 to Mana\n\xffc3+20 Maximum Stamina$mbt$cloudump2 / Tickle-Me$;0;6

@@ -1,0 +1,4 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudimbue / Ornate-Plate$;0;-1
+Horadric Cube$\xffc0\xffc4Horadric Cube (13)\n\xffc4Right Click to Open$box$cloudimbue / Ornate-Plate$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudimbue / Ornate-Plate$;0;-1
+Ornate Plate$\xffc5Ornate Plate (80)\n\xffc0Defense: 651\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimbue / Ornate-Plate$;0;-1

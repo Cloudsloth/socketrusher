@@ -1,0 +1,3 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudsale / Sock-Eye$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudsale / Sock-Eye$;0;-1
+Superior Monarch$\xffc0Superior Monarch (85)\n\xffc0Defense: \xffc3165\n\xffc0\xffc0Chance to Block: \xffc342%\n\xffc0Durability: 98 of 98\n\xffc1Required Strength: 156\n\xffc1Required Level: 54\n\xffc3+11% Enhanced Defense\n\xffc3Increase Maximum Durability 15%$kit$cloudsale / Sock-Eye$;0;-1

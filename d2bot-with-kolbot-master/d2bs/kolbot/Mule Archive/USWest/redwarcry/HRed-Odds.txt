@@ -1,0 +1,17 @@
+Echoing Falchion of the Locust$$flc$redwarcry / HRed-Odds$;0;9
+Echoing Falchion of the Vampire$$flc$redwarcry / HRed-Odds$;0;9
+Echoing Blade of the Wraith$$bld$redwarcry / HRed-Odds$;0;9
+Echoing Blade of the Vampire$$bld$redwarcry / HRed-Odds$;0;9
+Echoing Blade of the Vampire$$bld$redwarcry / HRed-Odds$;0;9
+Echoing Blade of the Wraith$$bld$redwarcry / HRed-Odds$;0;9
+Echoing Kris of the Lamprey$$kri$redwarcry / HRed-Odds$;0;9
+Echoing Kris of the Lamprey$$kri$redwarcry / HRed-Odds$;0;9
+Echoing Kris of the Locust$$kri$redwarcry / HRed-Odds$;0;9
+Echoing Kris of the Locust$$kri$redwarcry / HRed-Odds$;0;9
+Echoing Kris of the Lamprey$$kri$redwarcry / HRed-Odds$;0;9
+Echoing Kris of the Lamprey$$kri$redwarcry / HRed-Odds$;0;9
+Echoing Long Sword of the Locust$$lsd$redwarcry / HRed-Odds$;0;9
+Echoing Broad Sword of the Locust$$bsd$redwarcry / HRed-Odds$;0;9
+Echoing Broad Sword of the Vampire$$bsd$redwarcry / HRed-Odds$;0;9
+Echoing Long Sword of the Locust$$lsd$redwarcry / HRed-Odds$;0;9
+Echoing Broad Sword of the Wraith$$bsd$redwarcry / HRed-Odds$;0;9

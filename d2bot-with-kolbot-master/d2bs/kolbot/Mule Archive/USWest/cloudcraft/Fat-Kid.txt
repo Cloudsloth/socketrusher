@@ -1,0 +1,9 @@
+Shadow Slippers Greaves$\xffc9Shadow Slippers (29)\n\xffc9Greaves\n\xffc0Defense: \xffc321\n\xffc0Kick Damage: 10 to 20\n\xffc0Durability: 24 of 24\n\xffc1Required Strength: 70\n\xffc0Required Level: 8\n\xffc3+10% Faster Run/Walk\n\xffc3+15 to Attack Rating\n\xffc3+34% Enhanced Defense\n\xffc3+3 to Light Radius$hbt$cloudcraft / Fat-Kid$;0;13
+Tome of Town Portal$Tome of Town Portal (12)\nInsert Scrolls\nRight Click to Use\nQuantity: 20$tbk$cloudcraft / Fat-Kid$;0;-1
+Tome of Identify$Tome of Identify (12)\nInsert Scrolls\nRight Click to Use\nQuantity: 12$ibk$cloudcraft / Fat-Kid$;0;-1
+Cruel Brogues Boots$\xffc9Cruel Brogues (29)\n\xffc9Boots\n\xffc0Defense: 3\n\xffc0Kick Damage: 3 to 8\n\xffc0Durability: 12 of 12\n\xffc0Required Level: 18\n\xffc3+20% Faster Run/Walk\n\xffc3+10% Faster Hit Recovery\n\xffc3Lightning Resist +24%\n\xffc3Fire Resist +36%\n\xffc3Poison Resist +12%\n\xffc3Poison Length Reduced by 25%$lbt$cloudcraft / Fat-Kid$;0;7
+Fiend Stalker Boots$\xffc9Fiend Stalker (29)\n\xffc9Boots\n\xffc0Defense: 3\n\xffc0Kick Damage: 3 to 8\n\xffc0Durability: 12 of 12\n\xffc0Required Level: 18\n\xffc3+10% Faster Hit Recovery\n\xffc3Lightning Resist +31%\n\xffc3Fire Resist +32%\n\xffc351% Extra Gold from Monsters\n\xffc3+1 to Light Radius$lbt$cloudcraft / Fat-Kid$;0;15
+Silver Jewel of Virility$\xffc3Silver Jewel of Virility (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 18\n\xffc3+54 to Attack Rating\n\xffc3+4 to Strength$jew4$cloudcraft / Fat-Kid$;0;-1
+Jewel of Ennui$\xffc3 Jewel of Ennui (25)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 11\n\xffc3Adds 1-20 lightning damage$jew2$cloudcraft / Fat-Kid$;0;-1
+Horadric Cube$\xffc0\xffc4Horadric Cube (28)\n\xffc4Right Click to Open$box$cloudcraft / Fat-Kid$;0;-1
+Light Belt of the Fox$\xffc3 Light Belt of the Fox (25)\n\xffc0Defense: 3\n\xffc0Durability: 14 of 14\n\xffc0Required Level: 5\n\xffc3+9 to Life$vbl$cloudcraft / Fat-Kid$;0;-1

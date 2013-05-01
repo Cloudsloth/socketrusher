@@ -1,0 +1,23 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudjunk / JuJu$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudjunk / JuJu$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (24)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+3 to Life$jew3$cloudjunk / JuJu$;0;-1
+Zircon Jewel $\xffc3Zircon Jewel  (19)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 2\n\xffc3+7 to Mana$jew6$cloudjunk / JuJu$;0;-1
+Lapis Lazuli Jewel $\xffc3Lapis Lazuli Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Cold Resist +5%$jew4$cloudjunk / JuJu$;0;-1
+Tin Jewel $\xffc3Tin Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+33 to Attack Rating$jew4$cloudjunk / JuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew2$cloudjunk / JuJu$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+1 to Minimum Damage$jew6$cloudjunk / JuJu$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (43)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+1 to Energy$jew5$cloudjunk / JuJu$;0;-1
+Maroon Jewel $\xffc3Maroon Jewel  (19)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+17 Maximum Stamina$jew5$cloudjunk / JuJu$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+5 to Dexterity$jew3$cloudjunk / JuJu$;0;-1
+Pearl Jewel of Frigidity$\xffc3Pearl Jewel of Frigidity (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+40% Damage to Undead\n\xffc3+40 to Attack Rating against Undead\n\xffc3Adds 1-5 cold damage$jew5$cloudjunk / JuJu$;0;-1
+Ivory Jewel $\xffc3Ivory Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 56\n\xffc3+56 Defense$jew3$cloudjunk / JuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (58)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew3$cloudjunk / JuJu$;0;-1
+Sapphire Jewel of Malice$\xffc3Sapphire Jewel of Malice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3Cold Resist +30%\n\xffc3Attacker Takes Damage of 1$jew4$cloudjunk / JuJu$;0;-1
+Havoc Heart Jewel$\xffc9Havoc Heart (94)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+9 to Strength\n\xffc3+8 to Dexterity\n\xffc3Lightning Resist +11%\n\xffc316% Extra Gold from Monsters$jew2$cloudjunk / JuJu$;0;-1
+Bitter Gyre Jewel$\xffc9Bitter Gyre (22)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 8\n\xffc3Adds 3-8 damage\n\xffc3+8 to Life$jew6$cloudjunk / JuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew5$cloudjunk / JuJu$;0;-1
+Turquoise Jewel of Freedom$\xffc3Turquoise Jewel of Freedom (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 21\n\xffc3+17 to Mana\n\xffc3Requirements -15%$jew4$cloudjunk / JuJu$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (16)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+8 to Life$jew4$cloudjunk / JuJu$;0;-1
+Jewel of Envy$\xffc3 Jewel of Envy (87)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds$jew2$cloudjunk / JuJu$;0;-1
+Havoc Heart Jewel$\xffc9Havoc Heart (94)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 4-5 damage\n\xffc3Adds 1-70 lightning damage\n\xffc3+5 to Mana$jew3$cloudjunk / JuJu$;0;-1
+Jewel of Thunder$\xffc3 Jewel of Thunder (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 1-68 lightning damage$jew6$cloudjunk / JuJu$;0;-1

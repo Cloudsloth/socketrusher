@@ -1,0 +1,42 @@
+Jewel of the Glacier$\xffc3 Jewel of the Glacier (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 50\n\xffc3Adds 4-11 cold damage$jew3$cloudjunk / jj-Man$;0;-1
+Carbuncle Jewel $\xffc3Carbuncle Jewel  (75)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 9\n\xffc3+4 to Maximum Damage$jew1$cloudjunk / jj-Man$;0;-1
+Silver Jewel of Honor$\xffc3Silver Jewel of Honor (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 35\n\xffc3+44 to Attack Rating\n\xffc3Replenish Life +1$jew5$cloudjunk / jj-Man$;0;-1
+Jewel of Fervor$\xffc3 Jewel of Fervor (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 31\n\xffc3+15% Increased Attack Speed$jew1$cloudjunk / jj-Man$;0;-1
+Raven Scarab Jewel$\xffc9Raven Scarab (86)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3+12 to Attack Rating\n\xffc3Cold Resist +23%\n\xffc3Attacker Takes Damage of 5$jew3$cloudjunk / jj-Man$;0;-1
+Eagle Eye Jewel$\xffc9Eagle Eye (36)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+1 to Minimum Damage\n\xffc3Adds 1-15 lightning damage\n\xffc3+18 Maximum Stamina$jew4$cloudjunk / jj-Man$;0;-1
+Scintillating Jewel $\xffc3Scintillating Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 26\n\xffc3All Resistances +12$jew1$cloudjunk / jj-Man$;0;-1
+Scarlet Jewel of Truth$\xffc3Scarlet Jewel of Truth (69)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery\n\xffc3+2 to Minimum Damage$jew4$cloudjunk / jj-Man$;0;-1
+Doom Talisman Jewel$\xffc9Doom Talisman (33)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 19\n\xffc3+2 to Minimum Damage\n\xffc3+5 to Life\n\xffc3Poison Resist +22%\n\xffc36% Better Chance of Getting Magic Items$jew3$cloudjunk / jj-Man$;0;-1
+Blanched Jewel of Knowledge$\xffc3Blanched Jewel of Knowledge (84)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+5 Defense\n\xffc3+4 to Energy$jew5$cloudjunk / jj-Man$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (73)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+1 to Minimum Damage$jew5$cloudjunk / jj-Man$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Maximum Damage$jew3$cloudjunk / jj-Man$;0;-1
+Crimson Jewel of Knowledge$\xffc3Crimson Jewel of Knowledge (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+5 to Minimum Damage\n\xffc3+5 to Energy$jew5$cloudjunk / jj-Man$;0;-1
+Rainbow Facet Jewel$\xffc4Rainbow Facet (85)\n\xffc4Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3100% Chance to cast level 51 Poison Nova when you Die\n\xffc3+37 poison damage over 2 seconds\n\xffc3+3% to Poison Skill Damage\n\xffc3-4% to Enemy Poison Resistance$jew3$cloudjunk / jj-Man$2444735118;0;-1
+Jewel of Fervor$\xffc3 Jewel of Fervor (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 31\n\xffc3+15% Increased Attack Speed$jew1$cloudjunk / jj-Man$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudjunk / jj-Man$;0;-1
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudjunk / jj-Man$;0;-1
+Bone Jewel of Envy$\xffc3Bone Jewel of Envy (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 24\n\xffc3+20 poison damage over 2 seconds\n\xffc3+37 Defense$jew4$cloudjunk / jj-Man$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Maximum Damage$jew5$cloudjunk / jj-Man$;0;-1
+Jewel of Hope$\xffc3 Jewel of Hope (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+19 to Life$jew6$cloudjunk / jj-Man$;0;-1
+Jewel of Honor$\xffc3 Jewel of Honor (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 35\n\xffc3Replenish Life +2$jew1$cloudjunk / jj-Man$;0;-1
+Maroon Jewel $\xffc3Maroon Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+24 Maximum Stamina$jew6$cloudjunk / jj-Man$;0;-1
+Jewel of Prosperity$\xffc3 Jewel of Prosperity (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 19\n\xffc36% Better Chance of Getting Magic Items$jew1$cloudjunk / jj-Man$;0;-1
+Carbuncle Jewel of Daring$\xffc3Carbuncle Jewel of Daring (69)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+1 to Maximum Damage\n\xffc3+5 to Dexterity$jew1$cloudjunk / jj-Man$;0;-1
+Jewel of Lightning$\xffc3 Jewel of Lightning (84)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 1-26 lightning damage$jew5$cloudjunk / jj-Man$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+5 to Dexterity$jew6$cloudjunk / jj-Man$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+5 to Energy$jew4$cloudjunk / jj-Man$;0;-1
+Jewel of the Icicle$\xffc3 Jewel of the Icicle (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3Adds 2-10 cold damage$jew1$cloudjunk / jj-Man$;0;-1
+Beast Gyre Jewel$\xffc9Beast Gyre (80)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength\n\xffc3+9 to Energy\n\xffc3+1 to Mana after each Kill$jew4$cloudjunk / jj-Man$;0;-1
+Crimson Jewel $\xffc3Crimson Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+6 to Minimum Damage$jew3$cloudjunk / jj-Man$;0;-1
+Carmine Jewel of Freedom$\xffc3Carmine Jewel of Freedom (72)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 27\n\xffc3+9 to Maximum Damage\n\xffc3Requirements -15%$jew4$cloudjunk / jj-Man$;0;-1
+Storm Eye Jewel$\xffc9Storm Eye (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+25 Defense\n\xffc3+9 to Strength\n\xffc3+8 to Mana$jew6$cloudjunk / jj-Man$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 5\n\xffc3+3 to Dexterity$jew2$cloudjunk / jj-Man$;0;-1
+Ruby Jewel $\xffc3Ruby Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 58\n\xffc3+36% Enhanced Damage$jew5$cloudjunk / jj-Man$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (87)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength$jew3$cloudjunk / jj-Man$;0;-1
+Lapis Lazuli Jewel of Virility$\xffc3Lapis Lazuli Jewel of Virility (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+5 to Strength\n\xffc3Cold Resist +13%$jew5$cloudjunk / jj-Man$;0;-1
+Emerald Jewel of Lightning$\xffc3Emerald Jewel of Lightning (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 1-22 lightning damage\n\xffc36% Better Chance of Getting Magic Items$jew4$cloudjunk / jj-Man$;0;-1
+Jewel of Fervor$\xffc3 Jewel of Fervor (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 31\n\xffc3+15% Increased Attack Speed$jew2$cloudjunk / jj-Man$;0;-1
+Jewel of Avarice$\xffc3 Jewel of Avarice (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc329% Extra Gold from Monsters$jew2$cloudjunk / jj-Man$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+3 to Life$jew3$cloudjunk / jj-Man$;0;-1
+Argent Jewel $\xffc3Argent Jewel  (71)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+71 to Attack Rating$jew6$cloudjunk / jj-Man$;0;-1
+Jewel of Thunder$\xffc3 Jewel of Thunder (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 1-77 lightning damage$jew2$cloudjunk / jj-Man$;0;-1

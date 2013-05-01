@@ -1,0 +1,48 @@
+Eburine Jewel $\xffc3Eburine Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 12\n\xffc3+20 Defense$jew2$cloudcraft / Junkers$;0;-1
+Emerald Jewel of Ire$\xffc3Emerald Jewel of Ire (43)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 12\n\xffc3+3 to Maximum Damage\n\xffc35% Better Chance of Getting Magic Items$jew3$cloudcraft / Junkers$;0;-1
+Jewel of Carnage$\xffc3 Jewel of Carnage (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 18\n\xffc3+12 to Maximum Damage$jew1$cloudcraft / Junkers$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 18\n\xffc3+4 to Energy$jew3$cloudcraft / Junkers$;0;-1
+Jewel of Wrath$\xffc3 Jewel of Wrath (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 8\n\xffc3+7 to Maximum Damage$jew2$cloudcraft / Junkers$;0;-1
+Nickel Jewel $\xffc3Nickel Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+13 to Attack Rating$jew4$cloudcraft / Junkers$;0;-1
+Beryl Jewel $\xffc3Beryl Jewel  (58)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Poison Resist +12%$jew1$cloudcraft / Junkers$;0;-1
+Jewel of Bliss$\xffc3 Jewel of Bliss (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+9 to Minimum Damage$jew2$cloudcraft / Junkers$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 13\n\xffc3+1 to Strength$jew3$cloudcraft / Junkers$;0;-1
+Maroon Jewel $\xffc3Maroon Jewel  (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 12\n\xffc3+20 Maximum Stamina$jew5$cloudcraft / Junkers$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 6\n\xffc3+4 to Energy$jew4$cloudcraft / Junkers$;0;-1
+Silver Jewel $\xffc3Silver Jewel  (45)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 18\n\xffc3+46 to Attack Rating$jew3$cloudcraft / Junkers$;0;-1
+Scarlet Jewel of Daring$\xffc3Scarlet Jewel of Daring (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 6\n\xffc3+2 to Minimum Damage\n\xffc3+2 to Dexterity$jew6$cloudcraft / Junkers$;0;-1
+Jade Jewel $\xffc3Jade Jewel  (75)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 14\n\xffc3Poison Resist +17%$jew6$cloudcraft / Junkers$;0;-1
+Ruby Jewel $\xffc3Ruby Jewel  (64)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 13\n\xffc3Fire Resist +26%$jew5$cloudcraft / Junkers$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (60)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 3\n\xffc3+4 to Minimum Damage$jew3$cloudcraft / Junkers$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (20)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 13\n\xffc3+3 to Strength$jew6$cloudcraft / Junkers$;0;-1
+Maroon Jewel $\xffc3Maroon Jewel  (55)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 12\n\xffc3+17 Maximum Stamina$jew5$cloudcraft / Junkers$;0;-1
+Carbuncle Jewel $\xffc3Carbuncle Jewel  (73)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 9\n\xffc3+5 to Maximum Damage$jew5$cloudcraft / Junkers$;0;-1
+Jewel of Hope$\xffc3 Jewel of Hope (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+16 to Life$jew1$cloudcraft / Junkers$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (19)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 13\n\xffc3+3 to Strength$jew6$cloudcraft / Junkers$;0;-1
+Jewel of Hope$\xffc3 Jewel of Hope (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+13 to Life$jew5$cloudcraft / Junkers$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (64)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 18\n\xffc3+4 to Energy$jew1$cloudcraft / Junkers$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (64)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3+8 to Dexterity$jew6$cloudcraft / Junkers$;0;-1
+Carbuncle Jewel of Passion$\xffc3Carbuncle Jewel of Passion (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 11\n\xffc3+4 to Maximum Damage\n\xffc3Adds 1-7 fire damage$jew3$cloudcraft / Junkers$;0;-1
+Jewel of Prosperity$\xffc3 Jewel of Prosperity (42)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 19\n\xffc35% Better Chance of Getting Magic Items$jew4$cloudcraft / Junkers$;0;-1
+Sapphire Jewel $\xffc3Sapphire Jewel  (83)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 14\n\xffc3Cold Resist +20%$jew3$cloudcraft / Junkers$;0;-1
+Jewel of the Glacier$\xffc3 Jewel of the Glacier (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 50\n\xffc3Adds 5-12 cold damage$jew1$cloudcraft / Junkers$;0;-1
+Ivory Jewel $\xffc3Ivory Jewel  (69)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 56\n\xffc3+52 Defense$jew3$cloudcraft / Junkers$;0;-1
+Beryl Jewel of Spirit$\xffc3Beryl Jewel of Spirit (17)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+7 to Life\n\xffc3Poison Resist +7%$jew3$cloudcraft / Junkers$;0;-1
+Cinnabar Jewel of Knowledge$\xffc3Cinnabar Jewel of Knowledge (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+5% Enhanced Damage\n\xffc3+7 to Energy$jew6$cloudcraft / Junkers$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 5\n\xffc3+3 to Dexterity$jew1$cloudcraft / Junkers$;0;-1
+Ivory Jewel of Envy$\xffc3Ivory Jewel of Envy (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 56\n\xffc3+20 poison damage over 2 seconds\n\xffc3+50 Defense$jew6$cloudcraft / Junkers$;0;-1
+Jewel of Freedom$\xffc3 Jewel of Freedom (24)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Requirements -15%$jew3$cloudcraft / Junkers$;0;-1
+Bright Jewel $\xffc3Bright Jewel  (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+10 to Attack Rating\n\xffc3+1 to Light Radius$jew1$cloudcraft / Junkers$;0;-1
+Jewel of the Glacier$\xffc3 Jewel of the Glacier (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 50\n\xffc3Adds 5-13 cold damage$jew5$cloudcraft / Junkers$;0;-1
+Beryl Jewel of Carnage$\xffc3Beryl Jewel of Carnage (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 18\n\xffc3+12 to Maximum Damage\n\xffc3Poison Resist +13%$jew5$cloudcraft / Junkers$;0;-1
+Argent Jewel of Hope$\xffc3Argent Jewel of Hope (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+69 to Attack Rating\n\xffc3+13 to Life$jew3$cloudcraft / Junkers$;0;-1
+Plague Heart Jewel$\xffc9Plague Heart (22)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 6\n\xffc3+25 to Attack Rating\n\xffc3+2 to Energy\n\xffc3Cold Resist +8%$jew4$cloudcraft / Junkers$;0;-1
+Nef Rune$\xffc8Nef Rune (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: Knockback\n\xffc0Armor: +30 Defense vs. Missile\n\xffc0Helms: +30 Defense vs. Missile\n\xffc0Shields: +30 Defense vs. Missile\n\xffc0\n\xffc0Required Level: 13$r04$cloudcraft / Junkers$47286875;0;-1
+Ort Rune$\xffc8Ort Rune (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: Adds 1-50 lightning damage\n\xffc0Armor: Lightning Resist +30%\n\xffc0Helms: Lightning Resist +30%\n\xffc0Shields: Lightning Resist +35%\n\xffc0\n\xffc0Required Level: 21$r09$cloudcraft / Junkers$3273033298;0;-1
+Superior Crown Shield$\xffc0Superior Crown Shield (81)\n\xffc0Defense: \xffc344\n\xffc0\xffc0Chance to Block: \xffc350%\n\xffc0Durability: 66 of 66\n\xffc1(Paladin Only)\n\xffc1Required Strength: 65\n\xffc0Required Level: 18\n\xffc3+62% Enhanced Damage\n\xffc3+118 to Attack Rating\n\xffc3+8% Enhanced Defense\n\xffc3Increase Maximum Durability 10%$pa5$cloudcraft / Junkers$;0;-1
+Bitter Heart Jewel$\xffc9Bitter Heart (49)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3+36% Damage to Undead\n\xffc3+27 to Attack Rating against Undead\n\xffc3Fire Resist +17%\n\xffc3Attacker Takes Damage of 1$jew1$cloudcraft / Junkers$;0;-1
+Horadric Cube$\xffc0\xffc4Horadric Cube (13)\n\xffc4Right Click to Open$box$cloudcraft / Junkers$;0;-1
+Garnet Jewel of Virility$\xffc3Garnet Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength\n\xffc3Fire Resist +6%$jew3$cloudcraft / Junkers$;0;-1
+Wraith Heart Jewel$\xffc9Wraith Heart (12)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 3\n\xffc3+5% Enhanced Damage\n\xffc3Adds 2-4 damage\n\xffc3Requirements -15%$jew3$cloudcraft / Junkers$;0;-1
+Plague Scarab Jewel$\xffc9Plague Scarab (12)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 3\n\xffc3+10% Enhanced Damage\n\xffc3+3 to Maximum Damage\n\xffc3+5 Defense\n\xffc3+10 Maximum Stamina$jew5$cloudcraft / Junkers$;0;-1
+Viper Gyre Jewel$\xffc9Viper Gyre (12)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 3\n\xffc3+4 to Minimum Damage\n\xffc3+9 to Mana\n\xffc3Fire Resist +5%$jew6$cloudcraft / Junkers$;0;-1

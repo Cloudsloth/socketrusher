@@ -1,0 +1,80 @@
+Cinnabar Jewel $\xffc3Cinnabar Jewel  (12)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+9% Enhanced Damage$jew1$cloudcraft / Junkey$;0;-1
+Ruby Jewel of Daring$\xffc3Ruby Jewel of Daring (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 58\n\xffc3+34% Enhanced Damage\n\xffc3+4 to Dexterity$jew5$cloudcraft / Junkey$;0;-1
+Carmine Jewel of Envy$\xffc3Carmine Jewel of Envy (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 27\n\xffc3+9 to Maximum Damage\n\xffc3+20 poison damage over 2 seconds$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+8 to Strength$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+8 to Energy$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Ennui$\xffc3 Jewel of Ennui (61)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 11\n\xffc3Adds 1-19 lightning damage$jew2$cloudcraft / Junkey$;0;-1
+Ghoul Talisman Jewel$\xffc9Ghoul Talisman (75)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3Adds 2-6 cold damage\n\xffc3+5 to Dexterity\n\xffc3Fire Resist +11%$jew4$cloudcraft / Junkey$;0;-1
+Jewel of Prosperity$\xffc3 Jewel of Prosperity (43)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 19\n\xffc35% Better Chance of Getting Magic Items$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Wrath$\xffc3 Jewel of Wrath (76)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 8\n\xffc3+8 to Maximum Damage$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Thunder$\xffc3 Jewel of Thunder (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 49\n\xffc3Adds 1-74 lightning damage$jew4$cloudcraft / Junkey$;0;-1
+Ivory Jewel $\xffc3Ivory Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 56\n\xffc3+52 Defense$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Knowledge$\xffc3 Jewel of Knowledge (58)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+2 to Energy$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Truth$\xffc3 Jewel of Truth (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery$jew1$cloudcraft / Junkey$;0;-1
+Carmine Jewel of Spirit$\xffc3Carmine Jewel of Spirit (86)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 27\n\xffc3+8 to Maximum Damage\n\xffc3+8 to Life$jew4$cloudcraft / Junkey$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (58)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3+8 to Dexterity$jew6$cloudcraft / Junkey$;0;-1
+Nickel Jewel of Knowledge$\xffc3Nickel Jewel of Knowledge (79)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+13 to Attack Rating\n\xffc3+4 to Energy$jew2$cloudcraft / Junkey$;0;-1
+Doom Whorl Jewel$\xffc9Doom Whorl (85)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+4 to Maximum Damage\n\xffc3+9 to Energy\n\xffc3+12 Maximum Stamina$jew5$cloudcraft / Junkey$;0;-1
+Blanched Jewel of Wrath$\xffc3Blanched Jewel of Wrath (20)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 8\n\xffc3+7 to Maximum Damage\n\xffc3+6 Defense$jew5$cloudcraft / Junkey$;0;-1
+Eburine Jewel $\xffc3Eburine Jewel  (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+18 Defense$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Fire$\xffc3 Jewel of Fire (66)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 7-19 fire damage$jew4$cloudcraft / Junkey$;0;-1
+Jewel of Truth$\xffc3 Jewel of Truth (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery$jew4$cloudcraft / Junkey$;0;-1
+Blood Gyre Jewel$\xffc9Blood Gyre (28)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+19 to Attack Rating\n\xffc3+4 to Energy\n\xffc3Poison Resist +26%$jew1$cloudcraft / Junkey$;0;-1
+Camphor Jewel $\xffc3Camphor Jewel  (12)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Lightning Resist +13%$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Carnage$\xffc3 Jewel of Carnage (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+12 to Maximum Damage$jew1$cloudcraft / Junkey$;0;-1
+Silver Jewel $\xffc3Silver Jewel  (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+52 to Attack Rating$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Avarice$\xffc3 Jewel of Avarice (7)\n\xffc0Can be Inserted into Socketed Items\n\xffc320% Extra Gold from Monsters$jew3$cloudcraft / Junkey$;0;-1
+Emerald Jewel $\xffc3Emerald Jewel  (16)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc37% Better Chance of Getting Magic Items$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Frigidity$\xffc3 Jewel of Frigidity (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3Adds 1-5 cold damage$jew5$cloudcraft / Junkey$;0;-1
+Diamond Jewel of Prosperity$\xffc3Diamond Jewel of Prosperity (33)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 19\n\xffc3+31% Damage to Demons\n\xffc3+40 to Attack Rating against Demons\n\xffc310% Better Chance of Getting Magic Items$jew2$cloudcraft / Junkey$;0;-1
+Tin Jewel of Ire$\xffc3Tin Jewel of Ire (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+2 to Maximum Damage\n\xffc3+29 to Attack Rating$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+4 to Strength$jew3$cloudcraft / Junkey$;0;-1
+Blood Eye Jewel$\xffc9Blood Eye (28)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 11\n\xffc3Adds 1-14 lightning damage\n\xffc3+5 to Life\n\xffc3Requirements -15%$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Truth$\xffc3 Jewel of Truth (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery$jew3$cloudcraft / Junkey$;0;-1
+Jade Jewel of Virility$\xffc3Jade Jewel of Virility (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength\n\xffc3Poison Resist +16%$jew6$cloudcraft / Junkey$;0;-1
+Jewel of Bliss$\xffc3 Jewel of Bliss (58)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+10 to Minimum Damage$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (11)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Maximum Damage$jew4$cloudcraft / Junkey$;0;-1
+Maroon Jewel of Virility$\xffc3Maroon Jewel of Virility (87)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+5 to Strength\n\xffc3+18 Maximum Stamina$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (43)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+2 to Maximum Damage$jew3$cloudcraft / Junkey$;0;-1
+Camphor Jewel $\xffc3Camphor Jewel  (10)\n\xffc0Can be Inserted into Socketed Items\n\xffc3Lightning Resist +8%$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Lightning$\xffc3 Jewel of Lightning (87)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 1-39 lightning damage$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 25\n\xffc3+5 to Strength$jew5$cloudcraft / Junkey$;0;-1
+Garnet Jewel of Daring$\xffc3Garnet Jewel of Daring (33)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+5 to Dexterity\n\xffc3Fire Resist +9%$jew5$cloudcraft / Junkey$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3+9 to Dexterity$jew6$cloudcraft / Junkey$;0;-1
+Crimson Jewel $\xffc3Crimson Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+6 to Minimum Damage$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Spirit$\xffc3 Jewel of Spirit (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+5 to Life$jew5$cloudcraft / Junkey$;0;-1
+Scarlet Jewel $\xffc3Scarlet Jewel  (20)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 6\n\xffc3+2 to Minimum Damage$jew3$cloudcraft / Junkey$;0;-1
+Jewel of Hope$\xffc3 Jewel of Hope (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+14 to Life$jew5$cloudcraft / Junkey$;0;-1
+Crimson Jewel $\xffc3Crimson Jewel  (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 30\n\xffc3+5 to Minimum Damage$jew4$cloudcraft / Junkey$;0;-1
+Havoc Scarab Jewel$\xffc9Havoc Scarab (99)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+2 to Maximum Damage\n\xffc3+2 to Strength\n\xffc3+5 to Energy\n\xffc3Lightning Resist +6%$jew5$cloudcraft / Junkey$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength$jew5$cloudcraft / Junkey$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength$jew4$cloudcraft / Junkey$;0;-1
+Jewel of Hope$\xffc3 Jewel of Hope (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+10 to Life$jew4$cloudcraft / Junkey$;0;-1
+Rune Talisman Jewel$\xffc9Rune Talisman (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 13\n\xffc3+7 to Life\n\xffc3+10 Maximum Stamina\n\xffc3Fire Resist +20%$jew2$cloudcraft / Junkey$;0;-1
+Death Gyre Jewel$\xffc9Death Gyre (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 18\n\xffc3+4 to Minimum Damage\n\xffc3+53 to Attack Rating\n\xffc3Poison Resist +21%$jew4$cloudcraft / Junkey$;0;-1
+Jewel of Daring$\xffc3 Jewel of Daring (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 5\n\xffc3+1 to Dexterity$jew1$cloudcraft / Junkey$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Maximum Damage$jew6$cloudcraft / Junkey$;0;-1
+Jade Jewel $\xffc3Jade Jewel  (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3Poison Resist +25%$jew6$cloudcraft / Junkey$;0;-1
+Jewel of Virility$\xffc3 Jewel of Virility (81)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Strength$jew5$cloudcraft / Junkey$;0;-1
+Jewel of Joyfulness$\xffc3 Jewel of Joyfulness (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+3 to Minimum Damage$jew5$cloudcraft / Junkey$;0;-1
+Vermilion Jewel $\xffc3Vermilion Jewel  (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 50\n\xffc3+15 to Maximum Damage$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Frigidity$\xffc3 Jewel of Frigidity (28)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3Adds 1-4 cold damage$jew3$cloudcraft / Junkey$;0;-1
+Ruby Jewel of Lightning$\xffc3Ruby Jewel of Lightning (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 28\n\xffc3Adds 1-40 lightning damage\n\xffc3Fire Resist +24%$jew2$cloudcraft / Junkey$;0;-1
+Jewel of Ire$\xffc3 Jewel of Ire (88)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+4 to Maximum Damage$jew6$cloudcraft / Junkey$;0;-1
+Shadow Whorl Jewel$\xffc9Shadow Whorl (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 35\n\xffc3+10 to Attack Rating\n\xffc3Replenish Life +2\n\xffc3+14 Maximum Stamina\n\xffc3Cold Resist +22%\n\xffc3+1 to Light Radius$jew4$cloudcraft / Junkey$;0;-1
+Eagle Eye Jewel$\xffc9Eagle Eye (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+25% Enhanced Damage\n\xffc3+4 to Minimum Damage\n\xffc3Cold Resist +22%$jew5$cloudcraft / Junkey$;0;-1
+Ghoul Eye Jewel$\xffc9Ghoul Eye (99)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 29\n\xffc3+6 to Maximum Damage\n\xffc3Cold Resist +26%\n\xffc3Attacker Takes Damage of 3$jew1$cloudcraft / Junkey$;0;-1
+Bone Talisman Jewel$\xffc9Bone Talisman (82)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3Adds 2-6 fire damage\n\xffc3+5 to Strength\n\xffc3+7 to Energy$jew1$cloudcraft / Junkey$;0;-1
+Beast Gyre Jewel$\xffc9Beast Gyre (84)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+7 to Minimum Damage\n\xffc3Adds 1-13 lightning damage\n\xffc3+7 to Strength\n\xffc3+2 to Energy$jew6$cloudcraft / Junkey$;0;-1
+Rune Heart Jewel$\xffc9Rune Heart (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+1 to Maximum Damage\n\xffc3+8 to Strength\n\xffc3+3 to Energy\n\xffc3Poison Resist +25%$jew3$cloudcraft / Junkey$;0;-1
+Grim Talisman Jewel$\xffc9Grim Talisman (85)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 42\n\xffc3+6 to Maximum Damage\n\xffc3+8 Defense\n\xffc3+7 to Strength$jew5$cloudcraft / Junkey$;0;-1
+Rune Eye Jewel$\xffc9Rune Eye (87)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery\n\xffc3+6% Enhanced Damage\n\xffc3+7 to Maximum Damage\n\xffc3Adds 1-5 cold damage$jew5$cloudcraft / Junkey$;0;-1
+Blood Heart Jewel$\xffc9Blood Heart (99)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 12\n\xffc3+31 to Attack Rating\n\xffc3+15 Defense\n\xffc3+17 Maximum Stamina$jew5$cloudcraft / Junkey$;0;-1
+Bitter Heart Jewel$\xffc9Bitter Heart (75)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 24\n\xffc3Adds 1-5 cold damage\n\xffc3+36 Defense\n\xffc3+2 to Strength\n\xffc3+4 to Life$jew2$cloudcraft / Junkey$;0;-1
+Bitter Eye Jewel$\xffc9Bitter Eye (83)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+5 to Minimum Damage\n\xffc3+4 to Energy\n\xffc3Fire Resist +9%\n\xffc3+3 to Mana after each Kill$jew2$cloudcraft / Junkey$;0;-1
+Raven Heart Jewel$\xffc9Raven Heart (94)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 33\n\xffc3+36 Defense\n\xffc3+7 to Energy\n\xffc3+22 Maximum Stamina\n\xffc34% Better Chance of Getting Magic Items$jew2$cloudcraft / Junkey$;0;-1
+Storm Scarab Jewel$\xffc9Storm Scarab (75)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+37 to Attack Rating\n\xffc3Adds 1-18 lightning damage\n\xffc3+18 Maximum Stamina\n\xffc3Cold Resist +17%$jew4$cloudcraft / Junkey$;0;-1
+Bone Eye Jewel$\xffc9Bone Eye (94)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 35\n\xffc3+40 to Attack Rating\n\xffc3+7 to Dexterity\n\xffc3Replenish Life +2$jew5$cloudcraft / Junkey$;0;-1
+Beast Talisman Jewel$\xffc9Beast Talisman (84)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 14\n\xffc3+3 to Dexterity\n\xffc3+2 to Energy\n\xffc3Poison Resist +29%$jew1$cloudcraft / Junkey$;0;-1
+Rune Talisman Jewel$\xffc9Rune Talisman (83)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 36\n\xffc3+7% Faster Hit Recovery\n\xffc3+4 to Minimum Damage\n\xffc3+3 to Strength\n\xffc3+19 Maximum Stamina$jew1$cloudcraft / Junkey$;0;-1
+Dread Gyre Jewel$\xffc9Dread Gyre (88)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 37\n\xffc3+27% Enhanced Damage\n\xffc3+8 to Dexterity\n\xffc3+12 Maximum Stamina\n\xffc3Heal Stamina Plus 14%$jew1$cloudcraft / Junkey$;0;-1

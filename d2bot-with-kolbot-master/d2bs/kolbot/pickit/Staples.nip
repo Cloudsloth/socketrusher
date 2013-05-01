@@ -1,0 +1,168 @@
+//=================================================================================================================================================================================
+// ### GRAND CHARMS ###
+
+// Plain Skillers!
+//[Name] == GrandCharm && [Quality] == Magic # [JavelinAndSpearSkillTab] == 1 || [ShadowDisciplinesSkillTab] == 1 || [TrapsSkillTab] == 1 || [PoisonAndBoneSkillTab] == 1 || [WarcriesSkillTab] == 1 || [PaliCombatSkillTab] == 1 || [ColdSkillTab] == 1 || [LightningSkillTab] == 1 || [FireSkillTab] == 1 || [ElementalSkillTab] == 1 || [ShapeShiftingSkillTab] == 1
+
+// One Mod Skillers
+[Name] == GrandCharm && [Quality] == Magic # ([JavelinAndSpearSkillTab] == 1 || [ShadowDisciplinesSkillTab] == 1 || [TrapsSkillTab] == 1 || [PoisonAndBoneSkillTab] == 1 || [WarcriesSkillTab] == 1 || [PaliCombatSkillTab] == 1 || [ColdSkillTab] == 1 || [LightningSkillTab] == 1 || [FireSkillTab] == 1 || [ElementalSkillTab] == 1 || [ShapeShiftingSkillTab] == 1) && ([MaxHp] >= 10 || [FHR] == 12 || [FRW] == 7 || [Strength] >= 5 || [Dexterity] >= 5 || [ItemGoldBonus] >= 20)
+
+[Name] == GrandCharm && [Quality] == Magic # [ItemGoldBonus] == 40
+
+[Name] == GrandCharm && [Quality] == Magic # [MaxDamage] >= 8 && ([MaxHp] >= 10 || [Strength]+[Dexterity] >= 5)
+
+[Name] == GrandCharm && [Quality] == Magic # [FireResist] >= 14 && [LightResist] >= 14
+
+
+
+
+// ### LARGE CHARMS ###
+
+//[Name] == LargeCharm && [Quality] == Magic # [ItemGoldBonus] == 22
+//[Name] == LargeCharm && [Quality] == Magic # [Strength] == 5 || [Dexterity] == 5
+
+[Name] == LargeCharm && [Quality] == Magic # [MaxHp] >= 15 && [ItemLevelReq] <= 9
+[Name] == LargeCharm && [Quality] == Magic # [Dexterity] == 3 && [ToHit] >= 10 && [ItemLevelReq] <= 9
+[Name] == LargeCharm && [Quality] == Magic # ([ToHit] >= 1 || [Defense] >= 1 || [PoisonMinDam] >= 1) && ([Strength] >= 3 || [Dexterity] >= 3) && [ItemLevelReq] <= 9
+[Name] == LargeCharm && [Quality] == Magic # ([Strength] == 3 || [Dexterity] == 3 || [PoisonMinDam] >= 30 || [LightningMaxDam] >= 3 || [FireMinDam] >= 1) && [ToHit] >= 4 && [ItemLevelReq] <= 9
+[Name] == LargeCharm && [Quality] == Magic # ([Strength] == 3 || [Dexterity] == 3 || [LightningMaxDam] >= 3 || [FireMinDam] >= 1) && ([PoisonMinDam] >= 20 || [ToHit] >= 4) && [ItemLevelReq] <= 9
+//[Name] == LargeCharm && [Quality] == Magic # ([Strength] == 3 || [Dexterity] == 3) && [ItemLevelReq] <= 9
+
+// ### SMALL CHARMS ###
+
+//[Name] == SmallCharm && [Quality] == Magic # [FHR] == 5 || [FRW] == 3
+
+[Name] == SmallCharm && [Quality] == Magic # [MaxHp] == 20 || [ItemGoldBonus] == 10 || [ItemMagicBonus] == 7 || [MaxMana] == 17 || [MaxHp] == 15 || [MaxMana] == 12 || ([MaxDamage] == 3 && [ToHit] == 20)
+[Name] == SmallCharm && [Quality] == Magic # [PoisonMinDam] >= 205
+
+//[Name] == SmallCharm && [Quality] == Magic # ([FireResist] >= 11 || [LightResist] >= 11)
+
+[Name] == SmallCharm && [Quality] == Magic # [MaxHp] == 15 && [ItemLevelReq] <= 30
+
+
+// ### UNIQUE'S ###
+
+[Name] == Tiara && [Quality] == Unique && [Flag] != Ethereal # [FireResist] == 70 && [LightResist] == 70 // Kira's Guardian
+[Name] == SkullCap && [Quality] == Unique # [ItemMagicBonus] >= 50 // Tarnhelm
+//[Name] == Crown && [Quality] == Unique && [Flag] != Ethereal # [EnhancedDefense] == 60 // Undead Crown
+//[Name] == BoneHelm && [Quality] == unique // Wormskull 
+[Name] == GrimHelm && [Quality] == Unique && [Flag] != Ethereal # [LifeLeech] >= 6 && [ManaLeech] >= 6 && [DamageResist] == 20 && [MagicDamageReduction] >= 10 // Vampire Gaze
+//[Name] == Sallet && [Quality] == Unique && [Flag] != Ethereal # [ColdResist]+[FireResist]+[LightningResist] >= 100 // Rockstopper
+[Name] == Sallet && [Quality] == Unique && [Flag] == Ethereal # // Eth Rockstopper
+[Name] == SpiredHelm && [Quality] == Unique && [Flag] != Ethereal # [PassiveColdMastery] == 15 // Nightwing's Veil
+
+
+
+//[Type] == amulet && [Quality] == unique # [ToHit] >= 400 && [ColdResist] >= 35 // Metalgrid 
+//[Type] == amulet && [Quality] == unique # [DefensiveAurasSkillTab] >= 2 // Seraph's Hymn
+//[Type] == Amulet && [Quality] == Unique # [FRW] >= 3 // Cat's Eye
+[Type] == Amulet && [Quality] == Unique # [LifeLeech] == 7 // Eye of Etlich
+//[Type] == Amulet && [Quality] == Unique # [HPRegen] == 10 // Rising Sun
+[Type] == amulet && [Quality] == unique # [Strength] == 12 && [ColdResist] == 25 // Saracen's Chance
+
+//[Name] == LongBow && [Quality] == Unique # [EnhancedDamage] == 70 // Raven Claw
+
+[Name] == Monarch && [Quality] == Unique # [Defense] == 148 // Stormshield
+
+[Type] == Ring && [Quality] == Unique # [ItemMagicBonus] >= 30 // Nagelring
+[Type] == Ring && [Quality] == Unique # [MaxHp] == 40 && [MagicDamageReduction] >= 15 // Dwarf Star
+[Type] == Ring && [Quality] == Unique # [Dexterity] == 20 // Raven Frost
+[Type] == Ring && [Quality] == Unique # [LifeLeech] == 5 && [ItemAllSkills] == 1 // Bul-Kathos' Wedding Band
+[Type] == Ring && [Quality] == Unique # ([ItemAbsorbLightPercent] >= 10 && [ItemMagicBonus] >= 10) || [ItemAbsorbLightPercent] >= 17 || ([ItemAbsorbLightPercent] >= 10 && [ItemMagicBonus] >= 18) // Wisp Projector
+
+
+[Type] == Jewel && [Quality] == Unique # [PassiveLtngPierce] >= 5 // Rainbow Facet
+
+
+
+//[Name] == Mask && [Quality] <= Superior # ([Sockets] == 3 || [Sockets] == 0)
+//[Name] == Crown && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 3
+
+//[Name] == Flail && [Quality] <= Superior # [Sockets] == 4 || [Sockets] == 5 // HOTO / CTA
+[Name] == Flail && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 || [Sockets] == 5 // HOTO / CTA
+
+[Name] == WarScythe && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+
+[Name] == Bill && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+[Name] == GrimScythe && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+[Name] == BattleScythe && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+[Name] == Partizan && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+[Name] == BecDeCorbin && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+//[Name] == GrimScythe && [Quality] <= Superior # [Sockets] >= 4
+[Name] == ColossusVoulge && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4
+
+[Name] == Monarch && [Quality] <= Superior # [Sockets] == 4
+[Name] == Monarch && [Quality] == Normal && [Flag] == Ethereal # [Sockets] == 0
+
+// Rand 4os
+//[Name] == Rondache && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == HeraldicShield && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == AerinShield && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == CrownShield && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == AkaranRondache && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == SacredTarge && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == SacredRondache && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == VortexShield && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+
+
+
+// ##### Runes #########################
+[Name] == ElRune
+//[Name] == EldRune
+//[Name] == TirRune
+//[Name] == NefRune
+//[Name] == EthRune
+//[Name] == IthRune
+[Name] == TalRune
+//[Name] == RalRune
+//[Name] == OrtRune
+[Name] == ThulRune
+//[Name] == AmnRune
+[Name] == SolRune
+[Name] == ShaelRune
+[Name] == DolRune
+[Name] == HelRune
+//[Name] == IoRune
+//[Name] == LumRune
+[Name] == KoRune
+//[Name] == FalRune
+[Name] == LemRune
+//[Name] == PulRune
+[Name] == UmRune
+[Name] == MalRune
+[Name] >= IstRune && [Name] <= ZodRune
+
+
+// ##### Keys ##########################
+//[Name] == KeyOfTerror
+[Name] == KeyOfHate
+[Name] == KeyOfDestruction
+
+
+// ##### Essences ######################
+//[Name] == TwistedEssenceOfSuffering
+//[Name] == ChargedEssenceOfHatred
+//[Name] == BurningEssenceOfTerror
+//[Name] == FesteringEssenceOfDestruction
+
+
+// Set Items
+
+
+//[Type] == amulet && [Quality] == set # [ItemLightRadius] == 3 && [ItemDamageToMana] == 20 // Angelic Wings
+
+// # Sigon's Steel #
+//[Name] == GreatHelm && [Quality] == set # [Defense] == 60 // Sigon's Visor
+//[Name] == GothicPlate && [Quality] == set // Sigon's Shelter
+//[Name] == Greaves && [Quality] == set # [Defense] == 15 // Sigon's Sabot
+//[Name] == TowerShield && [Quality] == set # [Defense] == 25 // Sigon's Guard
+//[Name] == PlatedBelt && [Quality] == set # [Defense] == 11 // Sigon's Warp
+//[Name] == Gauntlets && [Quality] == set # [Defense] == 15 // Sigon's Gage
+
+
+// # Tal Rasha's Wrappings #
+[Name] == SwirlingCrystal && [Quality] == set # [ColdSkillTab]+[LightningSkillTab]+[FireSkillTab] == 6 // Tal Rasha's Lidless Eye
+[Name] == DeathMask && [Quality] == set # [Defense] == 131 // Tal Rasha's Horadric Crest
+[Name] == LacqueredPlate && [Quality] == set # // [Defense] >= 840 // Tal Rasha's Guardianship
+//[Type] == amulet && [Quality] == set # [SorceressSkills] == 2 // Tal Rasha's Adjucation
+[Name] == MeshBelt && [Quality] == set # [Defense] == 40 && [ItemMagicBonus] == 15 // Tal Rasha's Fine-Spun Cloth

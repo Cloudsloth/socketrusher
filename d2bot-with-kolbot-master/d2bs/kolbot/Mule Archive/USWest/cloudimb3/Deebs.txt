@@ -1,0 +1,5 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudimb3 / Deebs$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudimb3 / Deebs$;0;-1
+Sigon's Visor Great Helm$\xffc2Sigon's Visor (75)\n\xffc2Great Helm\n\xffc0Defense: \xffc356\n\xffc0Durability: 40 of 40\n\xffc1Required Strength: 63\n\xffc1Required Level: 8\n\xffc3+9 to Maximum Damage\n\xffc3+25 Defense\n\xffc3+30 to Mana\n\xffc39% Damage Taken Goes To Mana\n\xffc3Socketed (1)\n\xffc4\n\xffc4Sigon's Complete Steel\n\xffc1Sigon's Guard\n\xffc1Sigon's Wrap\n\xffc1Sigon's Sabot\n\xffc1Sigon's Shelter\n\xffc2Sigon's Visor\n\xffc2\xffc1Sigon's Gage
+
+\xffc3Dun Jewel of Wrath (22)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 8\n\xffc3+9 to Maximum Damage\n\xffc39% Damage Taken Goes To Mana$ghm$cloudimb3 / Deebs$1159306640;0;0

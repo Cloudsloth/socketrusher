@@ -1,0 +1,6 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudimbue / ImbzA$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudimbue / ImbzA$;0;-1
+Ornate Plate$\xffc5Ornate Plate (80)\n\xffc0Defense: 649\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimbue / ImbzA$;0;-1
+Ornate Plate$\xffc5Ornate Plate (73)\n\xffc0Defense: 669\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimbue / ImbzA$;0;-1
+Ornate Plate$\xffc5Ornate Plate (73)\n\xffc0Defense: 648\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 160\n\xffc1Required Level: 25\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimbue / ImbzA$;0;-1
+Key$\xffc0Key (6)\n\xffc0Quantity: 12$key$cloudimbue / ImbzA$;0;-1

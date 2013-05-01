@@ -1,0 +1,7 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudshop / Lifar-Two$;0;-1
+Scroll of Identify$\xffc0Scroll of Identify (1)$isc$cloudshop / Lifar-Two$;0;-1
+Jeweler's Full Plate Mail of the Whale$\xffc3Jeweler's Full Plate Mail of the Whale (76)\n\xffc0Defense: 154\n\xffc0Durability: 70 of 70\n\xffc1Required Strength: 80\n\xffc1Required Level: 47\n\xffc3+100 to Life\n\xffc3Socketed (4)$ful$cloudshop / Lifar-Two$;0;9
+Artisan's Full Plate Mail of the Squid$\xffc3Artisan's Full Plate Mail of the Squid (75)\n\xffc0Defense: 154\n\xffc0Durability: 70 of 70\n\xffc1Required Strength: 80\n\xffc1Required Level: 30\n\xffc3+80 to Life\n\xffc3Socketed (3)$ful$cloudshop / Lifar-Two$;0;9
+Jeweler's Full Plate Mail of the Whale$\xffc3Jeweler's Full Plate Mail of the Whale (75)\n\xffc0Defense: 151\n\xffc0Durability: 70 of 70\n\xffc1Required Strength: 80\n\xffc1Required Level: 47\n\xffc3+100 to Life\n\xffc3Socketed (4)$ful$cloudshop / Lifar-Two$;0;9
+Artisan's Gothic Plate of the Squid$\xffc3Artisan's Gothic Plate of the Squid (77)\n\xffc0Defense: 132\n\xffc0Durability: 55 of 55\n\xffc1Required Strength: 70\n\xffc1Required Level: 30\n\xffc3+80 to Life\n\xffc3Socketed (3)$gth$cloudshop / Lifar-Two$;0;9
+Artisan's Full Plate Mail of the Squid$\xffc3Artisan's Full Plate Mail of the Squid (77)\n\xffc0Defense: 150\n\xffc0Durability: 70 of 70\n\xffc1Required Strength: 80\n\xffc1Required Level: 30\n\xffc3+80 to Life\n\xffc3Socketed (3)$ful$cloudshop / Lifar-Two$;0;9

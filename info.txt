@@ -1,0 +1,21 @@
+nomi1, nomi2
+
+nomiaa, nomiab
+nomiba, nomibb
+
+for /r %%a in (Barbarian.Rushee.js) do (
+    copy "%%a" "%%a.TMPA1"
+    ren "%%a.TMPA1" "Barbarian.nomiaa"
+    copy "%%a" "%%aA2.TMP"
+    ren "%%aB1.TMP" "Barbarian.nomiab"
+    copy "%%a" "%%aA3.TMP"
+    ren "%%aC1.TMP" "Barbarian.nomiac"
+    copy "%%a" "%%aA4.TMP"
+    ren "%%aD1.TMP" "Barbarian.nomiad"
+    copy "%%a" "%%aA5.TMP"
+    ren "%%aE1.TMP" "Barbarian.nomiae"
+    copy "%%a" "%%aA6.TMP"
+    ren "%%aF1.TMP" "Barbarian.nomiaf"
+    copy "%%a" "%%aA7.TMP"
+    ren "%%aG1.TMP" "Barbarian.nomiag"
+)

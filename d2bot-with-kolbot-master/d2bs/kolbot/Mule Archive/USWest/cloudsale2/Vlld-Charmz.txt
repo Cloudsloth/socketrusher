@@ -1,0 +1,10 @@
+Stout Grand Charm of Dexterity$\xffc3Stout Grand Charm of Dexterity (19)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 5\n\xffc3+7 Defense\n\xffc3+4 to Dexterity$cm33$cloudsale2 / Vlld-Charmz$;0;-1
+Bronze Grand Charm of Strength$\xffc3Bronze Grand Charm of Strength (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc3+9 to Attack Rating\n\xffc3+4 to Strength$cm32$cloudsale2 / Vlld-Charmz$;0;-1
+Burly Grand Charm of Life$\xffc3Burly Grand Charm of Life (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 12\n\xffc3+13 Defense\n\xffc3+14 to Life$cm32$cloudsale2 / Vlld-Charmz$;0;-1
+Fiery Large Charm of Blight$\xffc3Fiery Large Charm of Blight (24)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 9\n\xffc3Adds 1-3 fire damage\n\xffc3+6 poison damage over 3 seconds$cm22$cloudsale2 / Vlld-Charmz$;0;-1
+Large Charm of Strength$\xffc3 Large Charm of Strength (22)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 2\n\xffc3+3 to Strength$cm21$cloudsale2 / Vlld-Charmz$;0;-1
+Stout Large Charm of Strength$\xffc3Stout Large Charm of Strength (22)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 2\n\xffc3+2 Defense\n\xffc3+3 to Strength$cm21$cloudsale2 / Vlld-Charmz$;0;-1
+Stout Grand Charm of Dexterity$\xffc3Stout Grand Charm of Dexterity (75)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 10\n\xffc3+9 Defense\n\xffc3+6 to Dexterity$cm32$cloudsale2 / Vlld-Charmz$;0;-1
+Grand Charm of Dexterity$\xffc3 Grand Charm of Dexterity (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc3+4 to Dexterity$cm31$cloudsale2 / Vlld-Charmz$;0;-1
+Septic Grand Charm of Dexterity$\xffc3Septic Grand Charm of Dexterity (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc3+5 poison damage over 3 seconds\n\xffc3+4 to Dexterity$cm31$cloudsale2 / Vlld-Charmz$;0;-1
+Snowy Grand Charm of Strength$\xffc3Snowy Grand Charm of Strength (26)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 6\n\xffc3Adds 1-2 cold damage\n\xffc3+4 to Strength$cm31$cloudsale2 / Vlld-Charmz$;0;-1

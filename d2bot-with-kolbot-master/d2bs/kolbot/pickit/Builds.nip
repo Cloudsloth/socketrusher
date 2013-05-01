@@ -1,0 +1,91 @@
+//=================================================================================================================================================================================
+// Shopper Stuff
+
+[Type] == Amulet && [Quality] == Unique # [frw] >= 10 // Cat's Eye
+[name] == boots && [quality] == unique # [EnhancedDefense] >= 10
+[name] == heavyboots && [quality] == set # [frw] >= 40
+[name] == battleboots && [quality] == set # [frw] >= 40
+[name] == sharkskinbelt && [quality] == set # [frw] >= 10
+[type] == circlet && [quality] <= rare # [frw] == 30
+[name] == grandcharm && [quality] == unique #
+
+[Name] == TirRune # # [MaxQuantity] == 5
+[Name] == EthRune # # [MaxQuantity] == 5
+[Name] == TalRune # # [MaxQuantity] == 10
+[Name] == AmnRune # # [MaxQuantity] == 5
+
+
+// norm-nm mf sorc
+
+[type] == amulet && [quality] == rare # [SorceressSkills]+[LightningSkillTab]+[FireSkillTab] >= 1 && ([fcr] == 10 || [itemmagicbonus] >= 20 || [fireresist]+[lightningresist] >= 20 || [maxmana] >= 40)
+[type] == amulet && [quality] == rare # [fcr] == 10 && [maxmana] >= 30 && ([itemmagicbonus] >= 15 || [fireresist]+[lightningresist] >= 20)
+[type] == ring && [quality] <= rare # [fcr] == 10 && [maxmana] >= 30
+[type] == boots && [quality] == rare # ([itemmagicbonus] >= 15 || [maxmana] >= 20) && [fireresist]+[lightningresist]+[coldresist] >= 50
+
+[Type] == Orb && [Quality] <= Rare # [skillfireball] >= 2 && [maxmana] >= 30 && [itemlevelreq] <= 20
+
+[Name] == Sallet && [Quality] == Unique # // Rockstopper
+
+[Name] == GrimHelm && [Quality] == Unique # // Vampire Gaze
+[Name] == Crown && [Quality] == Unique # // Undead Crown
+[Name] == BoneHelm && [Quality] == unique # // Wormskull 
+[Name] == GrandCrown && [Quality] == Unique # // Crown of Thieves
+[Name] == Casque && [Quality] == Unique # // Stealskull
+[Name] == Shako && [Quality] == Unique # // Shako
+[Name] == Diadem && [Quality] == Unique # // Griffon's Eye
+[Name] == Cuirass && [Quality] == Unique # // Duriel's
+[Name] == SplintMail && [Quality] == Unique # // Iceblink
+[Name] == FieldPlate && [Quality] == Unique // Rockfleece
+[Name] == FullPlateMail && [Quality] == Unique # // Goldskin
+[Name] == SerpentskinArmor && [Quality] == Unique # // Vipermagi
+[Name] == SharktoothArmor && [Quality] == Unique # // Toothrow
+[Name] == RussetArmor && [Quality] == Unique # // Skullder's
+[Name] == TemplarCoat && [Quality] == Unique # // Guardian Angel
+[Name] == MeshArmor && [Quality] == Unique # // Shaftstop
+[Name] == StuddedLeather && [Quality] == Unique # // Twitchthroe
+
+[Name] == SwirlingCrystal && [Quality] == Unique && [Flag] != Ethereal # [SorceressSkills] == 3 // The Oculus
+[Name] == CeremonialJavelin && [Quality] == Unique # // Titan's
+[Name] == YewWand && [Quality] == Unique // Maelstrom
+[Name] == Tulwar && [Quality] == Unique # // Ali Baba
+
+[Name] == ElderStaff && [Quality] == unique # // Ondal's
+
+[Name] == MightyScepter && [Quality] == Unique # [PaladinSkills] == 3 && [Sockets] == 2 // Heaven's Light
+
+[Name] == CrypticAxe && [Quality] == Unique && [Flag] == Ethereal # // Tomb Reaver
+[Name] == Thresher && [Quality] == Unique && [Flag] == Ethereal # // The Reaper's Toll
+
+[Name] == Poleaxe && [Quality] == Unique && [Flag] != Ethereal # [EnhancedDamage] == 70 // The Battlebranch
+[Name] == Poleaxe && [Quality] == Unique && [Flag] == Ethereal # // Eth Battlebranch
+
+[Name] == TyrantClub && [Quality] == Unique // Rand Demon Limb
+
+[Name] == SpikedClub && [Quality] == Unique # [ItemAttackerTakesDamage] >= 9 // Stoutnail
+
+[Name] == BoneKnife && [Quality] == Unique # // Wizardspike
+
+[Type] == amulet && [Quality] == unique # [ToHit] >= 350 && [ColdResist] >= 25 // Metalgrid 
+[Type] == amulet && [Quality] == unique # [PoisonResist] == 75 // Atma's Scarab
+
+[Type] == Amulet && [Quality] == Unique # [IAS] == 20 && [LightResist] == 35 // Highlord's Wrath
+[Type] == Amulet && [Quality] == Unique # [Strength] == 5 && [ColdResist] >= 20 // Mara's Kaleidoscope
+
+
+[Name] == GrimShield && [Quality] == Unique # // Lidless Wall
+[Name] == RoundShield && [Quality] == Unique # // Moser's Blessed Circle
+[Name] == Monarch && [Quality] == Unique # // Stormshield
+[Name] == Defender && [Quality] == Unique && [Flag] != Ethereal # // Visceratuant
+[Name] == GildedShield && [Quality] == Unique # // Herald of Zakarum
+
+[Name] == ChainGloves && [Quality] == Unique && [Flag] != Ethereal # [ItemMagicBonus] >= 35 // Chance Guards
+[Name] == Gauntlets && [Quality] == Unique && [Flag] != Ethereal # // Frostburn
+[Name] == HeavyGLoves && [Quality] == Unique && [Flag] != Ethereal # // Bloodfist
+[Name] == LightGauntlets && [Quality] == Unique && [Flag] != Ethereal # // Magefist
+[Name] == VampireboneGloves && [Quality] == Unique && [Flag] != Ethereal # // Dracul's Grasp
+
+[Name] == HeavyBelt && [Quality] == Unique && [Flag] != Ethereal # [ItemGoldBonus] >= 75 // Goldwrap
+[Name] == DemonhideSash && [Quality] == Unique && [Flag] != Ethereal # // String of Ears
+[Name] == WarBelt && [Quality] == Unique && [Flag] != Ethereal # // Tgod's
+[Name] == MithrilCoil && [Quality] == Unique && [Flag] != Ethereal # // Verdungo's Hearty Cord
+[Name] == SpiderwebSash && [Quality] == Unique && [Flag] != Ethereal # // Arachnid Mesh

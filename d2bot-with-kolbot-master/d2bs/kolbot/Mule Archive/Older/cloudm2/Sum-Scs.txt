@@ -1,0 +1,26 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudm2 / Sum-Scs$;0;-1
+Tome of Identify$Tome of Identify (6)\nInsert Scrolls\nRight Click to Use\nQuantity: 5$ibk$cloudm2 / Sum-Scs$;0;-1
+Tome of Identify$Tome of Identify (6)\nInsert Scrolls\nRight Click to Use\nQuantity: 0$ibk$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Blight$\xffc3 Small Charm of Blight (84)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 6\n\xffc3+6 poison damage over 3 seconds$cm13$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Greed$\xffc3 Small Charm of Greed (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 15\n\xffc310% Extra Gold from Monsters$cm12$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Shock$\xffc3 Small Charm of Shock (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 9\n\xffc3Adds 1-5 lightning damage$cm13$cloudm2 / Sum-Scs$;0;-1
+Fine Small Charm $\xffc3Fine Small Charm  (75)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 21\n\xffc3+3 to Maximum Damage\n\xffc3+18 to Attack Rating$cm12$cloudm2 / Sum-Scs$;0;-1
+Azure Small Charm of Storms$\xffc3Azure Small Charm of Storms (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 37\n\xffc3Adds 1-27 lightning damage\n\xffc3Cold Resist +5%$cm13$cloudm2 / Sum-Scs$;0;-1
+Snake's Small Charm of Balance$\xffc3Snake's Small Charm of Balance (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 29\n\xffc3+5% Faster Hit Recovery\n\xffc3+10 to Mana$cm13$cloudm2 / Sum-Scs$;0;-1
+Burly Small Charm of Vita$\xffc3Burly Small Charm of Vita (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 39\n\xffc3+16 Defense\n\xffc3+18 to Life$cm11$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Inertia$\xffc3 Small Charm of Inertia (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 27\n\xffc3+3% Faster Run/Walk$cm11$cloudm2 / Sum-Scs$;0;-1
+Steel Small Charm of Balance$\xffc3Steel Small Charm of Balance (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 49\n\xffc3+5% Faster Hit Recovery\n\xffc3+28 to Attack Rating$cm11$cloudm2 / Sum-Scs$;0;-1
+Beryl Small Charm of Shock$\xffc3Beryl Small Charm of Shock (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 9\n\xffc3Adds 1-5 lightning damage\n\xffc3Poison Resist +4%$cm13$cloudm2 / Sum-Scs$;0;-1
+Static Small Charm $\xffc3Static Small Charm  (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 17\n\xffc3Adds 1-11 lightning damage$cm13$cloudm2 / Sum-Scs$;0;-1
+Steel Small Charm of Anthrax$\xffc3Steel Small Charm of Anthrax (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 49\n\xffc3+32 to Attack Rating\n\xffc3+50 poison damage over 6 seconds$cm13$cloudm2 / Sum-Scs$;0;-1
+Coral Small Charm of Greed$\xffc3Coral Small Charm of Greed (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 20\n\xffc3Lightning Resist +9%\n\xffc310% Extra Gold from Monsters$cm13$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Inertia$\xffc3 Small Charm of Inertia (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 27\n\xffc3+3% Faster Run/Walk$cm13$cloudm2 / Sum-Scs$;0;-1
+Stout Small Charm of Venom$\xffc3Stout Small Charm of Venom (73)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 15\n\xffc3+15 poison damage over 4 seconds\n\xffc3+1 Defense$cm11$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Life$\xffc3 Small Charm of Life (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 14\n\xffc3+10 to Life$cm13$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Greed$\xffc3 Small Charm of Greed (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 15\n\xffc310% Extra Gold from Monsters$cm11$cloudm2 / Sum-Scs$;0;-1
+Foul Small Charm of Lightning$\xffc3Foul Small Charm of Lightning (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 31\n\xffc3Adds 1-10 lightning damage\n\xffc3+50 poison damage over 4 seconds$cm11$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Balance$\xffc3 Small Charm of Balance (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 29\n\xffc3+5% Faster Hit Recovery$cm12$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Blight$\xffc3 Small Charm of Blight (85)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 6\n\xffc3+6 poison damage over 3 seconds$cm12$cloudm2 / Sum-Scs$;0;-1
+Bronze Small Charm of Inertia$\xffc3Bronze Small Charm of Inertia (99)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 27\n\xffc3+3% Faster Run/Walk\n\xffc3+2 to Attack Rating$cm13$cloudm2 / Sum-Scs$;0;-1
+Amber Small Charm $\xffc3Amber Small Charm  (84)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 32\n\xffc3Lightning Resist +11%$cm12$cloudm2 / Sum-Scs$;0;-1
+Small Charm of Blight$\xffc3 Small Charm of Blight (80)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 6\n\xffc3+6 poison damage over 3 seconds$cm12$cloudm2 / Sum-Scs$;0;-1

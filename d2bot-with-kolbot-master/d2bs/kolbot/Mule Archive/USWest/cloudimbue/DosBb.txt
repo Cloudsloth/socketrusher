@@ -1,0 +1,10 @@
+Tome of Town Portal$Tome of Town Portal (45)\nInsert Scrolls\nRight Click to Use\nQuantity: 20$tbk$cloudimbue / DosBb$;0;-1
+Carbuncle Jewel of Fire$\xffc3Carbuncle Jewel of Fire (85)\n\xffc0Can be Inserted into Socketed Items\n\xffc0Required Level: 28\n\xffc3+2 to Maximum Damage\n\xffc3Adds 9-25 fire damage$jew6$cloudimbue / DosBb$;0;-1
+Garnet Large Charm of Dexterity$\xffc3Garnet Large Charm of Dexterity (88)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc0Required Level: 18\n\xffc3+5 to Dexterity\n\xffc3Fire Resist +12%$cm22$cloudimbue / DosBb$;0;-1
+Tome of Identify$Tome of Identify (45)\nInsert Scrolls\nRight Click to Use\nQuantity: 16$ibk$cloudimbue / DosBb$;0;-1
+Flawless Skull$\xffc0Flawless Skull (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: 3% Life stolen per hit, 3% Mana stolen per hit\n\xffc0Armor: Regenerate Mana 12%, Replenish Life +4\n\xffc0Helms: Regenerate Mana 12%, Replenish Life +4\n\xffc0Shields: Attacker Takes Damage of 16\n\xffc0\n\xffc0Required Level: 15$skl$cloudimbue / DosBb$3261891579;0;-1
+Greater Healing Potion$\xffc0Greater Healing Potion (1)\n\xffc0Points: 270$hp4$cloudimbue / DosBb$;0;-1
+Greater Healing Potion$\xffc0Greater Healing Potion (1)\n\xffc0Points: 270$hp4$cloudimbue / DosBb$;0;-1
+Super Mana Potion$\xffc0Super Mana Potion (1)\n\xffc0Points: 375$mp5$cloudimbue / DosBb$;0;-1
+Storm Carapace Ancient Armor$\xffc9Storm Carapace (45)\n\xffc9Ancient Armor\n\xffc0Defense: 343\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 90\n\xffc0Required Level: 18\n\xffc3+36 to Life\n\xffc3Cold Resist +13%\n\xffc3Fire Resist +26%\n\xffc3Poison Resist +5%\n\xffc3Poison Length Reduced by 50%\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimbue / DosBb$;0;9
+Pain Pelt Ancient Armor$\xffc9Pain Pelt (45)\n\xffc9Ancient Armor\n\xffc0Defense: \xffc3508\n\xffc0Durability: 31 of 31\n\xffc1Required Strength: 90\n\xffc0Required Level: 18\n\xffc3+45% Enhanced Defense\n\xffc3+31 to Life\n\xffc3Fire Resist +29%\n\xffc3Damage Reduced by 1\n\xffc3Magic Damage Reduced by 1\n\xffc3Ethereal (Cannot be Repaired)$aar$cloudimbue / DosBb$;0;9

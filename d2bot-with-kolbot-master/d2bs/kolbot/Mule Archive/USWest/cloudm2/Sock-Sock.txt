@@ -1,0 +1,7 @@
+Scroll of Town Portal$\xffc0Scroll of Town Portal (1)$tsc$cloudm2 / Sock-Sock$;0;-1
+Broad Sword$\xffc5Broad Sword (85)\n\xffc0One-Hand Damage: 7 to 14\n\xffc0Durability: 21 of 32\n\xffc1Required Strength: 48\n\xffc0Sword Class - Normal Attack Speed\n\xffc3Socketed (4)$bsd$cloudm2 / Sock-Sock$;0;-1
+Superior Grim Shield$\xffc0Superior Grim Shield (58)\n\xffc0Defense: 119\n\xffc0\xffc0Chance to Block: \xffc340%\n\xffc0Durability: 80 of 80\n\xffc1Required Strength: 58\n\xffc1Required Level: 25\n\xffc3Increase Maximum Durability 15%$bsh$cloudm2 / Sock-Sock$;0;-1
+Monarch$\xffc0Monarch (85)\n\xffc0Defense: 137\n\xffc0\xffc0Chance to Block: \xffc342%\n\xffc0Durability: 79 of 86\n\xffc1Required Strength: 156\n\xffc1Required Level: 54$kit$cloudm2 / Sock-Sock$;0;-1
+Monarch$\xffc5Monarch (80)\n\xffc0Defense: 136\n\xffc0\xffc0Chance to Block: \xffc342%\n\xffc0Durability: 84 of 86\n\xffc1Required Strength: 156\n\xffc1Required Level: 54\n\xffc3Socketed (2)$kit$cloudm2 / Sock-Sock$;0;-1
+Superior Dragon Shield$\xffc5Superior Dragon Shield (88)\n\xffc0Defense: \xffc375\n\xffc0\xffc0Chance to Block: \xffc338%\n\xffc0Durability: 83 of 83\n\xffc1Required Strength: 91\n\xffc1Required Level: 25\n\xffc3+11% Enhanced Defense\n\xffc3Increase Maximum Durability 10%\n\xffc3Socketed (3)$kit$cloudm2 / Sock-Sock$;0;-1
+Crystal Sword$\xffc5Crystal Sword (85)\n\xffc0One-Hand Damage: 5 to 15\n\xffc0Durability: 15 of 20\n\xffc1Required Strength: 43\n\xffc0Sword Class - Normal Attack Speed\n\xffc3Socketed (4)$crs$cloudm2 / Sock-Sock$;0;-1

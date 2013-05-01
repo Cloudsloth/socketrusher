@@ -1,0 +1,27 @@
+Iron Ring of the Apprentice$\xffc3Iron Ring of the Apprentice (8)\n\xffc1Required Level: 3\n\xffc3+10% Faster Cast Rate\n\xffc3+33 to Attack Rating$rin3$cloudchar / Lvl-Up$;0;-1
+Large Charm of Dexterity$\xffc3 Large Charm of Dexterity (58)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 2\n\xffc3+3 to Dexterity$cm22$cloudchar / Lvl-Up$;0;-1
+Sparking Clasped Orb of the Mind$\xffc3Sparking Clasped Orb of the Mind (30)\n\xffc0One-Hand Damage: 5 to 12\n\xffc0Durability: 27 of 40\n\xffc1(Sorceress Only)\n\xffc1Required Level: 18\n\xffc0Staff Class - Fast Attack Speed\n\xffc3+1 to Lightning Skills (Sorceress Only)\n\xffc3+1 to Teleport (Sorceress Only)\n\xffc3+1 to Lightning (Sorceress Only)\n\xffc3+1 to Blaze (Sorceress Only)\n\xffc3+5 to Energy\n\xffc3+5 to Mana$ob4$cloudchar / Lvl-Up$;0;-1
+Isenhart's Case Breast Plate$\xffc2Isenhart's Case (26)\n\xffc2Breast Plate\n\xffc0Defense: \xffc3106\n\xffc0Durability: 25 of 50\n\xffc1Required Strength: 30\n\xffc1Required Level: 8\n\xffc3+40 Defense\n\xffc3Magic Damage Reduced by 2\n\xffc4\n\xffc4Isenhart's Armory\n\xffc1Isenhart's Horns\n\xffc2Isenhart's Case\n\xffc1Isenhart's Parry\n\xffc2\xffc1Isenhart's Lightbrand$brs$cloudchar / Lvl-Up$3673593635;0;15
+Death Brow Circlet$\xffc9Death Brow (47)\n\xffc9Circlet\n\xffc0Defense: 27\n\xffc0Durability: 35 of 35\n\xffc1Required Level: 35\n\xffc3+1 to Paladin Skill Levels\n\xffc3+30% Faster Run/Walk\n\xffc3+12 to Dexterity\n\xffc3Cold Resist +16%\n\xffc3Lightning Resist +16%\n\xffc3Fire Resist +52%\n\xffc3Poison Resist +16%\n\xffc3Magic Damage Reduced by 3$ci0$cloudchar / Lvl-Up$;0;-1
+Jared's Stone of Nova$\xffc3 Jared's Stone of Nova (33)\n\xffc0One-Hand Damage: 8 to 18\n\xffc0Durability: 46 of 50\n\xffc1(Sorceress Only)\n\xffc1Required Level: 20\n\xffc0Staff Class - Fast Attack Speed\n\xffc310% Chance to cast level 3 Nova on striking\n\xffc3+2 to Teleport (Sorceress Only)\n\xffc3+1 to Fire Wall (Sorceress Only)\n\xffc3+1 to Fire Ball (Sorceress Only)\n\xffc3+12 to Life$ob5$cloudchar / Lvl-Up$;0;6
+Pelta Lunata Buckler$\xffc4Pelta Lunata (12)\n\xffc4Buckler\n\xffc0Defense: \xffc339\n\xffc0\xffc0Chance to Block: \xffc345%\n\xffc0Durability: 14 of 20\n\xffc0Required Strength: 12\n\xffc1Required Level: 2\n\xffc3+40% Faster Block Rate\n\xffc320% Increased Chance of Blocking\n\xffc3+31% Enhanced Defense\n\xffc3+30 Defense\n\xffc3+2 to Strength\n\xffc3+10 to Vitality\n\xffc3+10 to Energy$invbucu$cloudchar / Lvl-Up$2002692836;0;-1
+Superior Mask$\xffc5Superior Mask (85)\n\xffc0Defense: \xffc330\n\xffc0Durability: 13 of 20\n\xffc1Required Strength: 23\n\xffc1Required Level: 3\n\xffc3+15 to Maximum Damage\n\xffc3+9% Enhanced Defense\n\xffc3Socketed (3)
+
+\xffc3 Jewel of Ire (10)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+5 to Maximum Damage
+
+\xffc3 Jewel of Ire (24)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+5 to Maximum Damage
+
+\xffc3 Jewel of Ire (94)\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+5 to Maximum Damage$msk$cloudchar / Lvl-Up$;0;-1
+Septic Grand Charm of Venom$\xffc3Septic Grand Charm of Venom (6)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 4\n\xffc3+39 poison damage over 7 seconds$cm31$cloudchar / Lvl-Up$;0;-1
+Russet Large Charm of Dexterity$\xffc3Russet Large Charm of Dexterity (80)\n\xffc0Keep in Inventory to Gain Bonus\n\xffc1Required Level: 13\n\xffc3+5 to Dexterity\n\xffc3Fire Resist +8%$cm21$cloudchar / Lvl-Up$;0;-1
+Superior Breast Plate$\xffc5Superior Breast Plate (17)\n\xffc0Defense: 66\n\xffc0Durability: 52 of 57\n\xffc1Required Strength: 30\n\xffc1Required Level: 3\n\xffc3+2 to Minimum Damage\n\xffc3+34 to Attack Rating\n\xffc3+60 poison damage over 2 seconds\n\xffc3+11 Maximum Stamina\n\xffc3Increase Maximum Durability 14%\n\xffc3Socketed (3)
+
+\xffc3 Jewel of Envy (10)\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 poison damage over 2 seconds
+
+\xffc9Ghoul Heart (12)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc1Required Level: 3\n\xffc3+2 to Minimum Damage\n\xffc3+14 to Attack Rating\n\xffc3+20 poison damage over 2 seconds
+
+\xffc9Rune Gyre (12)\n\xffc9Jewel\n\xffc0Can be Inserted into Socketed Items\n\xffc3+20 to Attack Rating\n\xffc3+20 poison damage over 2 seconds\n\xffc3+11 Maximum Stamina$brs$cloudchar / Lvl-Up$;0;-1
+Perfect Sapphire$\xffc0Perfect Sapphire (1)\n\xffc0Can be Inserted into Socketed Items\n\xffc0\n\xffc0Weapons: Adds 10-14 cold damage\n\xffc0Armor: +38 to Mana\n\xffc0Helms: +38 to Mana\n\xffc0Shields: Cold Resist +40%\n\xffc0\n\xffc1Required Level: 18$gpb$cloudchar / Lvl-Up$1461630445;0;-1
+Death Winding Heavy Belt$\xffc9Death Winding (23)\n\xffc9Heavy Belt\n\xffc0Defense: \xffc39\n\xffc0Durability: 11 of 18\n\xffc1Required Strength: 45\n\xffc1Required Level: 8\n\xffc3+17% Faster Hit Recovery\n\xffc3+36% Enhanced Defense\n\xffc3+5 to Strength\n\xffc3+6 to Mana$tbl$cloudchar / Lvl-Up$;0;-1
+Dragon's Amulet of the Apprentice$\xffc3Dragon's Amulet of the Apprentice (28)\n\xffc1Required Level: 18\n\xffc3+10% Faster Cast Rate\n\xffc3+40 to Mana$amu1$cloudchar / Lvl-Up$;0;-1
+Cleglaw's Pincers Chain Gloves$\xffc2Cleglaw's Pincers (94)\n\xffc2Chain Gloves\n\xffc0Defense: 8\n\xffc0Durability: 9 of 16\n\xffc1Required Strength: 25\n\xffc1Required Level: 4\n\xffc3Slows Target by 25%\n\xffc3Knockback\n\xffc4\n\xffc4Cleglaw's Brace\n\xffc2Cleglaw's Pincers\n\xffc1Cleglaw's Claw\n\xffc2\xffc1Cleglaw's Tooth$mgl$cloudchar / Lvl-Up$3202592445;0;7
